@@ -1,0 +1,47 @@
+{% extends "item_craft_info_main.html" %}
+
+{% block content %}
+<div class="item_information_base">
+<a href="/item_search?search={{ item_name }}&server={{ request.args.get('server') }}" class="item_name_h1">{{ item_name }}</a>
+<img style="position:relative; border: 1px solid black; border-image: url(../static/textures/border_1_scaled.png);" width="40px" height="40px" src="../{{ item_icon_path }}">
+<h2 class="server_name_h2">Server: {{ server|capitalize }} </h2>
+<h3 class="last_updated_h3">Last Update: {{ listing_timestamp }}</h3>
+<div class="craft_item_display">
+    <p class="listing_value_box_lowest_price">{{ lowest_price_per_unit }}</p>
+    <div class="recipe_display">
+        {% for component in item_recipe %}
+        <div class="component_display">
+            <img width="25px" height="25px" style="border:3px solid black;" src="../{{ component[4] }}" alt="">
+        <div class="component_name_display">
+            <a href="/item_search?search={{ component[2] }}&server={{ request.args.get('server') }}" class="component_name_display_text">{{ component[2] }}</a>
+
+        </div>
+        <div class="component_amount_display">
+            <h2 class="component_amount_display_text">{{ component[1] }}</h2>
+
+        </div>
+        <div class="component_lowest_value_display">
+            <p class="component_lowest_value_text">Lowest market price: {{ component[3] }}</p>
+        </div>
+        </div>
+        {% endfor %}
+    <div class="craft_result_display">
+        {% if total_price_for_components < lowest_price_per_unit %}
+       
+            <p class="estimate_profit">Cost to craft: {{ total_price_for_components }}</p>
+       
+        {% else %}
+     
+            <p class="estimate_no_profit">Cost to craft: {{ total_price_for_components }}</p>
+       
+        {% endif %}
+    </div>
+    </div>
+
+</div>
+
+
+
+
+</div>
+{% endblock %}

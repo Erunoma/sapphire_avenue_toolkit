@@ -1,0 +1,400 @@
+.main_header{
+    background-color: grey;
+    margin:auto;
+    height: 80px;
+    width: 100%;
+    
+    background-image: url(textures/banner_1_scaled.png) ;
+    background-repeat: repeat-x;
+    background-size: 500px 100%;
+    
+    position: fixed;
+    top: 0;
+    bottom: 1;
+    right: 0;
+    left: 0;
+    z-index: 10000;
+    border: 3px solid yellow;
+}
+.main_header_logo{
+    position: fixed;
+    margin-left: auto;
+    float: left;
+    z-index: 10001;
+    width: 60px;
+    height: 60px;
+    padding-top: 10px;
+    padding-left: 30px;
+    
+}
+.main_header_p{
+    color: white;
+    font-size: 20px;
+    float: right;
+    text-align: right;
+    padding-top: 6px;
+    z-index: 10000;
+
+    padding-right: 10px;
+}
+
+
+.main_toolbar{
+    background-color: saddlebrown;
+    
+    background-repeat: repeat-y;
+    background-size: 100% 250px;
+    margin-top: 70px;
+    height: 100%;
+    width: 100px;
+    border: 2px solid black;
+    position: fixed;
+    top: 99;
+    bottom: 1;
+    right: 1;
+    left: 0;
+    z-index: 9998;
+}
+
+.main_toolbar_section{
+    padding-top: 10px;
+    margin-top: 10px;
+    width: 100%;
+    height: 100%;
+}
+.main_toolbar_options{
+    background-color: darkgoldenrod;
+    padding: 3px;
+    border: 2px outset grey;
+    text-align: center;
+    z-index: 10000;
+    margin-top: 0.5px;
+    
+    width: 90%;
+    height: 20px;
+    font-size: 10px;
+}
+.main_toolbar_options_active{
+    background-color: goldenrod;
+    padding: 3px;
+    border: 2px inset black;
+    text-align: center;
+    z-index: 10000;
+    margin-top: 1px;
+    
+    width: 90%;
+    height: 20px;
+    font-size: 10px;
+    
+
+}
+.main_bottom{
+    background-color: grey;
+    
+    height: 40px;
+    width: 100%;
+    border: 30px black;
+    position: fixed;
+    top: 100;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 10000;
+}
+
+
+.main_page_body{
+    background-image: url(../static/textures/background_brick_scaled.png);
+    background-repeat: repeat;
+    background-size: 64px 64px;
+    background-color: black;
+    
+}
+
+.header_banner{
+    height: 5%;
+    width: 100%;
+}
+
+
+
+.rope_sidebar_image{
+   height: 100px;
+   width: 20px;
+   background-repeat: repeat-y;
+   padding-left: 90px;
+   z-index: 10006;
+   position: absolute;
+   
+
+}
+.item_search_body{
+    background-image: url(../static/textures/background_brick_scaled.png);
+    background-repeat: repeat;
+    background-size: 64px 64px;
+    background-color: black;
+
+    
+    padding-left: 95px;
+    z-index: 1000;
+}
+
+.search_div{
+    min-width: 270px;
+    max-width: 270px;
+    background-color: sandybrown;
+    border: 3px solid black;
+    padding-top: 80px;
+    
+    width: 50%;
+    height: 100%;
+    
+    
+    
+    
+    
+}
+.search_bar{
+    position: relative;
+    padding-left: 10px;
+    margin: auto;
+    padding: auto;
+    
+    
+
+}
+.search_bar_class{
+    border: 1px solid black;
+    border-image: url(../static/textures/border_1_scaled.png);
+    
+}
+
+
+.body_header{
+    font-size: 20px;
+    font-style: oblique;
+    align-self: center;
+    padding-left: 10px;
+    color: black;
+
+    
+}
+
+.server_selection{
+    position: relative;
+    padding: 10px;
+    margin-left: 117px;
+    margin-top: 45px;
+    font-size: 10px;
+    border: 3px solid black;
+}
+
+
+
+#searchInput {
+    position: absolute;
+    padding: 10px;
+    
+    
+    font-size: 16px;
+  
+    border: 3px solid black;
+  }
+  #searchResults {
+    list-style-type: none;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: -25px;
+    z-index: 1000;
+    
+    
+    
+   
+
+
+  }
+  #searchResults li {
+    padding: 10px;
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+    border: 1px solid grey;
+  
+    cursor: pointer;
+    
+    
+  }
+  #searchResults li:hover {
+    background-color: #ddd;
+  }
+
+
+
+  .item_information_base{
+    background-color: brown;
+    border: 3px solid black;
+    width: 90%;
+    height: 80%;
+    position: relative;
+    padding: 5px;
+    min-width: 260px;
+    
+   
+
+}
+
+.item_name_h1{
+    font-size: 12px;
+    color: black;
+}
+.server_name_h2{
+    font-size: 8px;
+}
+.last_updated_h3{
+    font-size: 6px;
+}
+.listings_display{
+    background-color: darkgrey;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    border: 2px ridge white;
+}
+.listing_single{
+    
+    background-color: darkgoldenrod;
+    margin-right: 2px;
+    border: 3px solid black;
+    width: 120px;
+    margin-bottom: 1px;
+    padding: 1px;
+}
+.listing_key_header{
+    margin: auto;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    border: 1px solid black;
+    background-color: black;
+}
+.listing_value_box{
+    margin: auto;
+    background-color:chocolate;
+    background-image: url(../static/textures/border_1_scaled.png);
+
+    border-radius: 5px;
+    width: 80%;
+    height: 10px;
+    padding: 10px;
+    
+    margin-bottom: 1px;
+    border: 2px solid black;
+}
+.listing_value{
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    word-wrap: break-word;
+    
+    margin: auto;
+    
+    
+}
+.listing_value_box_lowest_price{
+    
+    background-color: lightgreen;
+    border: 3px dashed darkgreen;
+    margin: auto;
+    
+    background-image: url(../static/textures/border_1_scaled.png);
+
+    border-radius: 5px;
+    width: 80%;
+    height: 10px;
+    padding: 10px;
+    
+    margin-bottom: 1px;
+}
+.listing_value_lowest_price{
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    word-wrap: break-word;
+    font-weight: bold;
+    margin: auto;
+}
+
+.recipe_display{
+    background-color: cadetblue;
+    padding: 1px;
+    border: 1px ;
+}
+.component_display{
+    background-color: darkgoldenrod;
+    padding: 1px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+
+}
+.component_name_display{
+    padding: 2px;
+    background-color: black;
+    width: 30%;
+    border: 2px double lightsteelblue;
+    height: 10%;
+    font-size: 1vw;
+
+}
+.component_name_display_text{
+    font-size: 10px;
+    color: white;
+}
+.component_amount_display{
+    background-color: darkgrey;
+    padding: 2px;
+    width: 5%;
+    border: 2px inset black;
+    height: 5%;
+}
+.component_amount_display_text{
+    font-size: 10px;
+    color: white;
+
+    text-align: center;
+    
+
+
+}
+.component_lowest_value_display{
+    position: relative;
+    margin-top: 2px;
+    background-color: forestgreen;
+    left: 100;
+    width: 25%;
+    border: 2px dashed black;
+    height: 5%;
+    float: right;
+}
+.component_lowest_value_text{
+    font-size: 10px;
+    text-align: center;
+
+
+}
+.craft_result_display{
+    background-color: lightgoldenrodyellow;
+    width: 100%;
+    border: 2px dashed black;
+
+}
+.estimate_profit{
+    color: green;
+    font-size: 18px;
+    text-align: center;
+}
+.estimate_no_profit{
+    color: red;
+    font-size: 18px;
+    text-align: center;
+}
+
