@@ -16,6 +16,7 @@ def get_item_names_from_id():
 
 
 def get_item_id_from_name(item_name):
+    new_item_id=0
     with open("data/item_id_names.json",'r') as file:
         item_list=json.load(file)
     for item in item_list:
@@ -38,16 +39,17 @@ def item_lookup(item_id, server):
         json_item=requests.get(f"https://universalis.app/api/v2/{server}/{item_id}")
         
         if json_item.status_code==200:
+            print("got item request")
             item_json=json_item.json()
             last_update_time=last_update(item_json)
-            pprint(item_json)
+            #pprint(item_json)
             
             for listing in item_json["listings"]:
                 listing_data={"retainer_name":listing["retainerName"],"listing_quantity":listing["quantity"],
                               "price_per_unit":listing["pricePerUnit"],"listing_total":listing["total"]}
                 
                 listings.append(listing_data)
-            pprint(listings)
+            #pprint(listings)
 
             
     except:
@@ -65,13 +67,17 @@ def find_lowest_price_per_unit(listings):
     return lowest_price_per_item
 
 def last_update(json_item):
-    print(json_item["lastUploadTime"])
-    last_time_epoch=json_item["lastUploadTime"]
+    try:
+
+        print(json_item["lastUploadTime"])
+        last_time_epoch=json_item["lastUploadTime"]
     
     
-    converted_timestamp=datetime.fromtimestamp(last_time_epoch / 1000)
-    converted_timestamp=converted_timestamp.strftime('%Y-%m-%d %H:%M:%S')
-    return converted_timestamp
+        converted_timestamp=datetime.fromtimestamp(last_time_epoch / 1000)
+        converted_timestamp=converted_timestamp.strftime('%Y-%m-%d %H:%M:%S')
+        return converted_timestamp
+    except:
+        "NonTime"
     
 
 def find_item_icon_id(item_id):
@@ -88,3 +94,4 @@ def find_item_icon_id(item_id):
         print(print_exc)
         return None
     
+

@@ -1,0 +1,943 @@
+<!DOCTYPE html>
+
+<html class="en-us" lang="en-us" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head><meta charset="utf-8"/>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	(function() {
+		window.ldst_gtm_variable = {
+			'login': 'notloginuser',
+			'theme':  'white'
+		};
+		
+		
+	})();
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','digitalData','GTM-P37XSWJ');</script>
+<!-- End Google Tag Manager -->
+<title>Ana Vespertine | FINAL FANTASY XIV, The Lodestone</title>
+<meta content="Character profile for Ana Vespertine." name="description"/>
+<meta content="FF14,FFXIV,Final Fantasy XIV,Final Fantasy 14,Lodestone,players' site,community site,A Realm Reborn,Heavensward,Stormblood,Shadowbringers,Endwalker,MMO" name="keywords"/>
+<meta content="SQUARE ENIX Inc." name="author"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="telephone=no" name="format-detection"/>
+<link href="/lodestone/news/news.xml" rel="alternate" title="News | FINAL FANTASY XIV, The Lodestone" type="application/atom+xml"/>
+<link href="/lodestone/news/topics.xml" rel="alternate" title="Topics | FINAL FANTASY XIV, The Lodestone" type="application/atom+xml"/>
+<link href="https://lds-img.finalfantasyxiv.com/pc/global/images/favicon.ico?1707879950" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="https://lds-img.finalfantasyxiv.com/h/0/U2uGfVX4GdZgU1jASO0m9h_xLg.png" rel="apple-touch-icon-precomposed"/>
+<meta content="https://lds-img.finalfantasyxiv.com/h/0/U2uGfVX4GdZgU1jASO0m9h_xLg.png" name="msapplication-TileImage"/>
+<meta content="#000000" name="msapplication-TileColor"/>
+<link href="https://jp.finalfantasyxiv.com/lodestone/character/22125345/minion/" hreflang="ja" rel="alternate"/>
+<link href="https://eu.finalfantasyxiv.com/lodestone/character/22125345/minion/" hreflang="en-gb" rel="alternate"/>
+<link href="https://fr.finalfantasyxiv.com/lodestone/character/22125345/minion/" hreflang="fr" rel="alternate"/>
+<link href="https://de.finalfantasyxiv.com/lodestone/character/22125345/minion/" hreflang="de" rel="alternate"/>
+<!--[if lt IE 9]>
+	<script src="https://lds-img.finalfantasyxiv.com/h/I/SMlNRnAvuilc1lYKBpzKWpmADs.js"></script>
+
+<![endif]-->
+<!-- ** CSS ** -->
+<link href="https://lds-img.finalfantasyxiv.com/h/8/qpFaf_kwAdn4xAGhZe1idD07Pg.css" rel="stylesheet"/>
+<link href="https://lds-img.finalfantasyxiv.com/h/-/tUrZCLFtMgzaHil2OXxbmdw2a0.css" rel="stylesheet"/>
+<link href="https://lds-img.finalfantasyxiv.com/h/U/auLijW9d_xl-62OxSwVZSt8hz0.css" rel="stylesheet"/>
+<link href="https://lds-img.finalfantasyxiv.com/h/j/JgAulXN0McN_xRNcKLLbnNh4fs.css" rel="stylesheet"/>
+<link href="https://lds-img.finalfantasyxiv.com/h/U/8CXzMYRfNQUo0ynnZiUfpQl26c.css" rel="stylesheet"/>
+<link href="https://lds-img.finalfantasyxiv.com/h/_/teW6eaIqhVaNEZ3L8zf49YpF-g.css" rel="stylesheet"/>
+<link href="https://lds-img.finalfantasyxiv.com/h/u/xMbkDSP-_ENA_6ysJaiQtid-Cg.css" rel="stylesheet"/>
+<link href="https://lds-img.finalfantasyxiv.com/h/L/wO6tEYoqzr48YFT-0KS4ub-r1Y.css" rel="stylesheet"/>
+<link href="https://lds-img.finalfantasyxiv.com/h/4/ndPf9P944xIbgIJn77OKocY6r4.css" rel="stylesheet"/>
+<link class="sys_theme_css" data-theme_black="https://lds-img.finalfantasyxiv.com/h/F/y4K6_dl_g9-httMhb9JSWKEzj4.css" data-theme_white="https://lds-img.finalfantasyxiv.com/h/S/UdNxyiyy2CxYu5tW61jPRLIllo.css" href="https://lds-img.finalfantasyxiv.com/h/S/UdNxyiyy2CxYu5tW61jPRLIllo.css" rel="stylesheet"/>
+<!-- ogp -->
+<meta content="" property="fb:app_id"/>
+<meta content="website" property="og:type"/>
+<meta content="Character profile for Ana Vespertine." property="og:description"/>
+<meta content="Ana Vespertine | FINAL FANTASY XIV, The Lodestone" property="og:title"/>
+<meta content="https://na.finalfantasyxiv.com/lodestone/character/22125345/minion/" property="og:url"/>
+<meta content="FINAL FANTASY XIV, The Lodestone" property="og:site_name"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="https://lds-img.finalfantasyxiv.com/h/I/cy_FoBlOdFg3kBAQdaAxT19pTw.png" property="og:image"/>
+<meta content="116214575870" property="fb:pages"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@ff_xiv_en" name="twitter:site"/>
+<script>
+	var base_domain = 'finalfantasyxiv.com';
+	var ldst_subdomain = 'na';
+	var ldst_subdomain_suffix = '';
+	var strftime_fmt = {
+		'dateHHMM_now': 'Today %H:%M',
+		'dateYMDHMS': '%m/%d/%Y %\u002dI:%M:%S %p',
+		'dateYMDHM': '%m/%d/%Y %\u002dI:%M %p',
+		'dateYMDHM_jp': '%Y/%m/%d %H:%M',
+		'dateHM': '%\u002dI:%M %p',
+		'dateYMDH': '%m/%d/%Y %\u002dI',
+		'dateYMD': '%m/%d/%Y',
+		'dateEternal': '%m.%d.%Y',
+		'dateYMDW': '%m/%d/%Y (%a)',
+		'dateHM': '%\u002dI:%M %p',
+		'week.0': 'Sun.',
+		'week.1': 'Mon.',
+		'week.2': 'Tue.',
+		'week.3': 'Wed.',
+		'week.4': 'Thu.',
+		'week.5': 'Fri.',
+		'week.6': 'Sat.'
+	};
+	var base_uri   = '/lodestone/';
+	var api_uri    = '/lodestone/api/';
+	var static_uri = 'https://lds\u002dimg.finalfantasyxiv.com/';
+	var subdomain  = 'na';
+	var csrf_token = '147ccc854315c535c6055126928e6e4e34576beb';
+	var cis_origin = 'https://secure.square\u002denix.com';
+	var ldst_max_image_size = 31457280;
+	var eorzeadb = {
+		cdn_prefix: 'https://lds\u002dimg.finalfantasyxiv.com/',
+		version: '1715056869',
+		version_js_uri:  'https://lds-img.finalfantasyxiv.com/pc/global/js/eorzeadb/version.js',
+		dynamic_tooltip: false
+	};
+	var cookie_suffix = '';
+	var ldst_is_loggedin = false;
+	var show_achievement = false;
+</script>
+<script src="https://lds-img.finalfantasyxiv.com/h/A/PknAmzDJUZCNhTGtSGGMIGi5k4.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/M/as_JV_jXpV9QkpR7VCqWjQTQDc.js"></script>
+</head>
+<body class="lang_na" id="community">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-P37XSWJ" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="brand"><div class="brand__section">
+<div class="brand__logo">
+<a href="
+				https://na.square-enix.com/us/home
+			" target="_blank"><img alt="SQUARE ENIX" height="14" src="https://lds-img.finalfantasyxiv.com/h/L/cxcD5kjeM52JRVwrrzIF4dZNe0.png" width="130"/>
+</a>
+</div>
+<div class="brand__search">
+<form action="/lodestone/community/search/" class="brand__search__form">
+<div class="brand__search__focus_bg"></div>
+<div class="brand__search__base_bg"></div>
+<input class="brand__search--text" id="txt_search" name="q" placeholder="Search" type="text"/>
+<input class="brand__search--btn" id="bt_search" type="submit" value=""/>
+</form>
+</div>
+<div class="brand__theme sys_theme_switcher">
+<a href="javascript:void(0);"><i class="brand__theme--white sys_theme active js__tooltip" data-theme="white" data-tooltip="Theme (Black)"></i></a>
+<a href="javascript:void(0);"><i class="brand__theme--black sys_theme js__tooltip" data-theme="black" data-tooltip="Theme (White)"></i></a>
+</div>
+<div class="brand__lang dropdown_trigger_box">
+<a class="brand__lang__btn brand__lang__en-us dropdown_trigger" href="javascript:void(0);">English</a>
+<ul class="brand__lang__select dropdown">
+<li><a class="brand__lang__jp" href="https://jp.finalfantasyxiv.com/lodestone/character/22125345/minion/">日本語</a></li>
+<li><a class="brand__lang__na" href="https://na.finalfantasyxiv.com/lodestone/character/22125345/minion/">English</a></li>
+<li><a class="brand__lang__eu" href="https://eu.finalfantasyxiv.com/lodestone/character/22125345/minion/">English</a></li>
+<li><a class="brand__lang__fr" href="https://fr.finalfantasyxiv.com/lodestone/character/22125345/minion/">Français</a></li>
+<li><a class="brand__lang__de" href="https://de.finalfantasyxiv.com/lodestone/character/22125345/minion/">Deutsch</a></li>
+</ul>
+</div>
+<div class="l__cross_menu na">
+<a class="ffxiv_pr_cross_menu_button_na" href="javascript:void(null)"></a>
+<script>
+				var ffxiv_pr_cross_menu = {
+					uri_js: '/cross_menu/uri.js'
+				};
+			</script>
+<script src="https://lds-img.finalfantasyxiv.com/promo/pc/global/menu/loader.js"></script>
+</div>
+</div></div>
+<header class="l__header">
+<div class="l__header__inner l__header__bg_image" style="background-image: url(https://lds-img.finalfantasyxiv.com/banner/1308/newheaderImage_6_5_na.jpg);">
+<a class="l__header__link_top" href="/lodestone/"></a>
+<a class="l__header__link_management" href="/lodestone/topics/detail/e17ce5b98068f6972379cef5adbc6c4b664f9780/?utm_source=lodestone&amp;utm_medium=pc_header&amp;utm_campaign=na_6_5patch"></a>
+<div class="l__header__login clearfix"><a class="l__header__login__btn" href="/lodestone/account/login/">
+<img alt="" class="l__header__login__chara_silhouette" height="40" src="https://lds-img.finalfantasyxiv.com/h/z/6PLTZ82M99GJ7tKOee1RSwvNrQ.png" width="40"/>
+<div class="l__header__login__txt">
+<p>View Your Character Profile</p>
+<div>Log In</div>
+</div>
+</a></div>
+</div>
+</header>
+<div class="global-nav">
+<nav class="main-nav na">
+<ul class="main-nav__area main-nav__area__community clearfix">
+<li class="main-nav__news main-nav__item">
+<a href="/lodestone/news/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_news-top');"><span>News</span></a>
+<nav class="sub-nav">
+<div class="sub-nav__area">
+<div class="sub-nav__list sub-nav__news">
+<div class="sub-nav__list__inner">
+<ul class="sub-nav__news__icon">
+<li>
+<a href="/lodestone/news/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_top');"><div>
+<img alt="News" height="32" src="https://lds-img.finalfantasyxiv.com/h/8/2GwuzUcvqLa-hgQeLUyd8xarI8.png" width="32"/>
+											News
+										</div></a>
+</li>
+<li>
+<a href="/lodestone/topics/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_topics');"><div>
+<img alt="Topics" height="32" src="https://lds-img.finalfantasyxiv.com/h/5/67ZyAIzQUaYoWBmyvFwNvGmCnQ.png" width="32"/>
+											Topics
+										</div></a>
+</li>
+<li>
+<a href="/lodestone/news/category/1" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_notices');"><div>
+<img alt="Notices" height="32" src="https://lds-img.finalfantasyxiv.com/h/-/Y5JdwnEWYfyO7OlH27eKIm91Ok.png" width="32"/>
+											Notices
+										</div></a>
+</li>
+<li>
+<a href="/lodestone/news/category/2" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_maintenance');"><div>
+<img alt="Maintenance" height="32" src="https://lds-img.finalfantasyxiv.com/h/s/-JfULvMAf26L7AaU1OGaGYwanI.png" width="32"/>
+											Maintenance
+										</div></a>
+</li>
+<li>
+<a href="/lodestone/news/category/3" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_updates');"><div>
+<img alt="Updates" height="32" src="https://lds-img.finalfantasyxiv.com/h/p/HPudyOQcwdv97RBwj3FQC552ps.png" width="32"/>
+											Updates
+										</div></a>
+</li>
+<li>
+<a href="/lodestone/news/category/4" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_Status');"><div>
+<img alt="Status" height="32" src="https://lds-img.finalfantasyxiv.com/h/S/-IC2xIQhTl2ymYW7deE1fOII04.png" width="32"/>
+											Status
+										</div></a>
+</li>
+</ul>
+<ul class="sub-nav__news__text">
+<li><a href="/lodestone/special/patchnote_log/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_patch-notes_special-sites');"><div>
+										Patch Notes and Special Sites
+										<span class="update">
+											Updated <span id="datetime-1e3f573509c">-</span><script>document.getElementById('datetime-1e3f573509c').innerHTML = ldst_strftime(1710835200, 'YMD');</script>
+</span>
+</div></a></li>
+<li><a href="/lodestone/special/update_log/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_lodestone-update-notes');"><div>
+<span class="sub_text">Official Community Site</span>
+										The Lodestone Update Notes
+										<span class="update">
+											Updated <span id="datetime-417a15f63d7">-</span><script>document.getElementById('datetime-417a15f63d7').innerHTML = ldst_strftime(1710835200, 'YMD');</script>
+</span>
+</div></a></li>
+<li><a href="/lodestone/worldstatus/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_server-status');"><div>
+										Server Status
+									</div></a></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</li>
+<li class="main-nav__promotion main-nav__item">
+<a href="/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_begin-ff14-top');"><span>Getting Started</span></a>
+<nav class="sub-nav">
+<div class="sub-nav__area">
+<div class="sub-nav__list sub-nav__promotion">
+<div class="sub-nav__list__inner">
+<div class="sub-nav__promotion__inner">
+<div class="sub-nav__promotion__link">
+<div class="sub-nav__promotion__top">
+<a href="/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_pr');"><img alt="FINAL FANTASY XIV: A Realm Reborn" height="140" src="https://lds-img.finalfantasyxiv.com/h/P/ciPXy1S4-ssQuLQJvEF4JWVm5Q.jpg" width="632"/></a>
+</div>
+<ul class="sub-nav__promotion__page">
+<li><a href="/benchmark/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_benchmark');">
+<img alt="Benchmark" height="40" src="https://lds-img.finalfantasyxiv.com/h/x/yLkmDjeDW9cU_l1mWtbQUnVIhs.png" width="64"/>
+<span>Benchmark</span>
+</a></li>
+<li><a href="
+												
+													http://freetrial.finalfantasyxiv.com/
+												" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_freetrial');">
+<img alt="Free Trial" height="40" src="https://lds-img.finalfantasyxiv.com/h/c/tWvZpXDc_g6yQd5YKK2k5jhuns.png" width="64"/>
+<span>Free Trial</span>
+</a></li>
+<li><a href="/product/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_product');">
+<img alt="Product" height="40" src="https://lds-img.finalfantasyxiv.com/h/m/NCNLGrn3U9M85ky-NscraujvN8.png" width="64"/>
+<span>Product</span>
+</a></li>
+<li><a href="/winning/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_awards');">
+<img alt="Awards and Nominations" height="40" src="https://lds-img.finalfantasyxiv.com/h/j/udWU20sWmhYoEsQ_FtrAzVwJ3Q.png" width="64"/>
+<span>Awards and Nominations</span>
+</a></li>
+</ul>
+</div>
+<div class="sub-nav__promotion__patch_site">
+<a href="/endwalker/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_latest-expansion');"><span>
+<img alt="FINAL FANTASY XIV: Endwalker Special Site" height="232" src="https://lds-img.finalfantasyxiv.com/h/f/sLzgsq-NNdSMdqLt6Mby4oROC0.png" width="296"/>
+</span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</li>
+<li class="main-nav__playguide main-nav__item">
+<a href="/lodestone/playguide/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_playguide-top');"><span>Play Guide</span></a>
+<nav class="sub-nav">
+<div class="sub-nav__area">
+<div class="sub-nav__list sub-nav__playguide">
+<div class="sub-nav__list__inner">
+<ul class="sub-nav__playguide__list">
+<li><a href="/lodestone/playguide/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_playguide-top');">
+<img alt="Play Guide&lt;br /&gt;Top" height="40" src="https://lds-img.finalfantasyxiv.com/h/P/Lfl3LVb9KMPa5Ye8yxftZkelbc.png" width="40"/>
+<span>Play Guide<br/>Top</span>
+</a></li>
+<li><a href="/lodestone/playguide/#game_playguide" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_game-playguide');">
+<img alt="Gameplay Guide and&lt;br /&gt;Beginners' Guide" height="40" src="https://lds-img.finalfantasyxiv.com/h/q/qy4dUGMNkjoyVqPweYMIpOApik.png" width="40"/>
+<span>Gameplay Guide and<br/>Beginners' Guide</span>
+<span class="update">
+											Updated <span id="datetime-f03cf65d05a">-</span><script>document.getElementById('datetime-f03cf65d05a').innerHTML = ldst_strftime(1714032000, 'YMD');</script>
+</span>
+</a></li>
+<li><a href="/lodestone/playguide/db/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_databese');">
+<img alt="Eorzea Database" height="40" src="https://lds-img.finalfantasyxiv.com/h/N/OYPWhQVCkovUbVcMMck0O4HABU.png" width="40"/>
+<span>Eorzea Database</span>
+<span class="update">
+											Updated <span id="datetime-ef9544344f1">-</span><script>document.getElementById('datetime-ef9544344f1').innerHTML = ldst_strftime(1715068800, 'YMD');</script>
+</span>
+</a></li>
+<li><a href="/lodestone/playguide/#content_guide" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_contents-guide');">
+<img alt="Game Features" height="40" src="https://lds-img.finalfantasyxiv.com/h/W/wlHP1NMpdQHcPKUG-swlv71fhE.png" width="40"/>
+<span>Game Features</span>
+<span class="update">
+											Updated <span id="datetime-28346881071">-</span><script>document.getElementById('datetime-28346881071').innerHTML = ldst_strftime(1705392000, 'YMD');</script>
+</span>
+</a></li>
+<li><a href="/lodestone/playguide/#side_storyes" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_side-story');">
+<img alt="Side Stories&lt;br /&gt;and More" height="40" src="https://lds-img.finalfantasyxiv.com/h/Z/1QWgBsVU7ZboWyMZlRjCQcDRJg.png" width="40"/>
+<span>Side Stories<br/>and More</span>
+<span class="update">
+											Updated <span id="datetime-97481c94d2d">-</span><script>document.getElementById('datetime-97481c94d2d').innerHTML = ldst_strftime(1701936000, 'YMD');</script>
+</span>
+</a></li>
+<li><a href="/lodestone/playguide/#option_service" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_option-service');">
+<img alt="Additional Services" height="40" src="https://lds-img.finalfantasyxiv.com/h/K/4fXwcEoJzDEmFRt-tD7PeeKvjE.png" width="40"/>
+<span>Additional Services</span>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</li>
+<li class="main-nav__community main-nav__item">
+<a href="/lodestone/community/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_community-top');"><span>Community</span></a>
+<nav class="sub-nav">
+<div class="sub-nav__area">
+<div class="sub-nav__list sub-nav__community">
+<div class="sub-nav__list__inner sub-nav__community__flex">
+<div class="sub-nav__community__link">
+<div class="sub-nav__community__top">
+<div class="sub-nav__community__top__wrapper">
+<h2 class="sub-nav__community__title"><img alt="Community" height="16" src="https://lds-img.finalfantasyxiv.com/h/q/GiEpnP3oCXluFjrlPlM-mgIbS8.png" width="16"/>Community</h2>
+<ul class="sub-nav__community__list">
+<li><a href="/lodestone/community/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_community-top');">
+<img alt="Community Wall" height="40" src="https://lds-img.finalfantasyxiv.com/h/i/Sa5YF2-VFf4IJ1cjjFAbPf4GWg.png" width="40"/>
+<span>Community Wall</span>
+</a></li>
+<li><a href="/lodestone/blog/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_blog');">
+<img alt="Blog" height="40" src="https://lds-img.finalfantasyxiv.com/h/h/6gPbLbzUQ_omC_mdXFUA3zPy7I.png" width="40"/>
+<span>Blog</span>
+</a></li>
+</ul>
+</div>
+<div class="sub-nav__community__top__wrapper">
+<h2 class="sub-nav__community__title"><img alt="Member Recruitment" height="16" src="https://lds-img.finalfantasyxiv.com/h/d/in_Sbc6SzxLU--Npa7URI-_kdg.png" width="16"/>Member Recruitment</h2>
+<ul class="sub-nav__community__list">
+<li><a href="/lodestone/community_finder/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_community-finder');">
+<img alt="Community Finder" height="40" src="https://lds-img.finalfantasyxiv.com/h/V/kHxwEjpY-Fme83ta8VIfi1kyLU.png" width="40"/>
+<span>Community Finder</span>
+</a></li>
+<li><a href="/lodestone/event/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_event-party');">
+<img alt="Event &amp; Party Recruitment" height="40" src="https://lds-img.finalfantasyxiv.com/h/0/k5jD6-BJZHwKA2CtbNcDYZR6oY.png" width="40"/>
+<span>Event &amp; Party Recruitment</span>
+</a></li>
+</ul>
+</div>
+</div>
+<div class="sub-nav__community__search">
+<h2 class="sub-nav__community__title"><img alt="Search" height="16" src="https://lds-img.finalfantasyxiv.com/h/X/uQVT3DEl1xlFWHu3UZU4-RBtVk.png" width="16"/>Search</h2>
+<ul class="sub-nav__community__list sub-nav__community__search__list">
+<li><a href="/lodestone/character/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_chara-search');">
+<img alt="Character Search" height="40" src="https://lds-img.finalfantasyxiv.com/h/5/YcEF3K-5SgqU0BxZtT0D1Zsa2A.png" width="40"/>
+<span>Character Search</span>
+</a></li>
+<li><a href="/lodestone/linkshell/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_ls-search');">
+<img alt="Linkshell Search" height="40" src="https://lds-img.finalfantasyxiv.com/h/b/SPCgcBAk4HvMngGzk6H4MfSINg.png" width="40"/>
+<span>Linkshell Search</span>
+</a></li>
+<li><a href="/lodestone/crossworld_linkshell/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_cwls-search');">
+<img alt="CWLS Search " height="40" src="https://lds-img.finalfantasyxiv.com/h/L/NUGcPcy-C8jvx6oKgEXgwJ1ePE.png" width="40"/>
+<span>CWLS Search </span>
+</a></li>
+<li><a href="/lodestone/freecompany/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_fc-search');">
+<img alt="Free Company Search" height="40" src="https://lds-img.finalfantasyxiv.com/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png" width="40"/>
+<span>Free Company Search</span>
+</a></li>
+<li><a href="/lodestone/pvpteam/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_pvp-team-search');">
+<img alt="PvP Team Search" height="40" src="https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png" width="40"/>
+<span>PvP Team Search</span>
+</a></li>
+</ul>
+</div>
+</div>
+<div class="sub-nav__community__side">
+<div class="sub-nav__community__forum">
+<ul class="sub-nav__community__forum__list">
+<li><a href="https://forum.square-enix.com/ffxiv/forum.php" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_forum');" target="_blank">
+<div class="forum">
+<i><img alt="Forums" height="40" src="https://lds-img.finalfantasyxiv.com/h/r/maZ-sHaqn4PMFANUlbH4GzztFM.png" width="40"/>
+</i><span>Forums</span>
+</div>
+</a></li>
+<li><a href="https://forum.square-enix.com/ffxiv/search.php?do=getdaily_ll&amp;contenttype=vBForum_Post" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_forum-new-posts');" target="_blank">
+<div>
+<i><img alt="" height="16" src="https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png" width="16"/>
+</i><span>New Posts</span>
+</div>
+</a></li>
+<li><a href="
+													
+														https://forum.square-enix.com/ffxiv/search.php?do=process&amp;search_type=1&amp;contenttypeid=1&amp;devtrack=1&amp;starteronly=0&amp;showposts=1&amp;childforums=1&amp;forumchoice[]=619
+													" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_forum-dev-tracker');" target="_blank">
+<div>
+<i><img alt="" height="16" src="https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png" width="16"/>
+</i><span>Dev Tracker</span>
+</div>
+</a></li>
+</ul>
+</div>
+<ul class="sub-nav__community__fankit">
+<li><a href="/lodestone/special/fankit/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_fankit');">
+<div>
+<span>Fan Kit</span>
+<span class="update">
+													Updated <span id="datetime-133786dd4ab">-</span><script>document.getElementById('datetime-133786dd4ab').innerHTML = ldst_strftime(1696924800, 'YMD');</script>
+</span>
+</div>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</li>
+<li class="main-nav__ranking main-nav__item">
+<a href="/lodestone/ranking/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_ranking-top');"><span>Standings</span></a>
+<nav class="sub-nav">
+<div class="sub-nav__area">
+<div class="sub-nav__list sub-nav__ranking">
+<div class="sub-nav__list__inner">
+<ul class="sub-nav__ranking__list">
+<li><a href="/lodestone/ranking/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_ranking-top');">
+<img alt="Standings Top" height="40" src="https://lds-img.finalfantasyxiv.com/h/E/NtymEFiUJfAh25ffTrADsVFkLQ.png" width="40"/>
+<span>Standings Top</span>
+</a></li>
+<li><a href="/lodestone/ranking/crystallineconflict/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_feast');">
+<img alt="Crystalline Conflict Standings" height="40" src="https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png" width="40"/>
+<span>Crystalline Conflict Standings</span>
+</a></li>
+<li><a href="/lodestone/ranking/gc/weekly/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_gc');">
+<img alt="Grand Company Standings" height="40" src="https://lds-img.finalfantasyxiv.com/h/o/uRmujlTx4X_5c6wETNxssK1d_4.png" width="40"/>
+<span>Grand Company Standings</span>
+</a></li>
+<li><a href="/lodestone/ranking/fc/weekly/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_fc');">
+<img alt="Free Company Standings" height="40" src="https://lds-img.finalfantasyxiv.com/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png" width="40"/>
+<span>Free Company Standings</span>
+</a></li>
+</ul>
+<ul class="sub-nav__ranking__list">
+<li><a href="/lodestone/ranking/frontline/weekly/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_frontline');">
+<img alt="Frontline Standings" height="40" src="https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png" width="40"/>
+<span>Frontline Standings</span>
+</a></li>
+<li><a href="/lodestone/ranking/deepdungeon3/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_deepdungeon3');">
+<img alt="Eureka Orthos Rankings" height="40" src="https://lds-img.finalfantasyxiv.com/h/_/qP22LgUoAFKDTRayb_TEYu6d7g.png" width="40"/>
+<span>Eureka Orthos Rankings</span>
+</a></li>
+<li><a href="/lodestone/ranking/deepdungeon2/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_deepdungeon2');">
+<img alt="Heaven-on-High Rankings" height="40" src="https://lds-img.finalfantasyxiv.com/h/_/qP22LgUoAFKDTRayb_TEYu6d7g.png" width="40"/>
+<span>Heaven-on-High Rankings</span>
+</a></li>
+<li><a href="/lodestone/ranking/deepdungeon/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_deepdungeon');">
+<img alt="Palace of the Dead Rankings" height="40" src="https://lds-img.finalfantasyxiv.com/h/p/op9iPrlMmYgTK3Q6NQKifyQOGA.png" width="40"/>
+<span>Palace of the Dead Rankings</span>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</li>
+<li class="main-nav__help main-nav__item">
+<a href="/lodestone/help/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_help-support-top');"><span>Help &amp; Support</span></a>
+<nav class="sub-nav">
+<div class="sub-nav__area">
+<div class="sub-nav__list sub-nav__help">
+<div class="sub-nav__list__inner">
+<ul class="sub-nav__help__list">
+<li><a href="/lodestone/help/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_help-support-top');">
+<span>Help &amp; Support</span>
+</a></li>
+<li><a href="/lodestone/help/about_the_lodestone/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_about-lodestone');">
+<span>About the Lodestone</span>
+</a></li>
+<li><a href="
+										
+											https://support.na.square-enix.com/faq.php?id=5382&amp;la=1
+										" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_faq');">
+<span>FAQ</span>
+</a></li>
+<li><a href="
+										
+											https://www.square-enix.com/na/account/
+										" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_sqex-account');">
+<span>Square Enix Account Information</span>
+</a></li>
+</ul>
+<ul class="sub-nav__help__other">
+<li><a href="
+										
+											https://support.na.square-enix.com/rule.php?id=5382&amp;la=1
+										" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_rule-policies');">
+<div>
+<i><img alt="" height="16" src="https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png" width="16"/>
+</i><span>Rules &amp; Policies</span>
+</div>
+</a></li>
+<li><a href="
+										
+											https://support.na.square-enix.com/main.php?id=5382&amp;la=1
+										" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_customer-service');">
+<div>
+<i><img alt="" height="16" src="https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png" width="16"/>
+</i><span>Customer Service</span>
+</div>
+</a></li>
+<li><a href="https://secure.square-enix.com/account/app/svc/mogstation/" onclick="ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_mogstation');" target="_blank">
+<div>
+<i class="ic_mogst"><img alt="" height="32" src="https://lds-img.finalfantasyxiv.com/h/S/6IKp0hN6xQqTYPgnPIsd2fjzSI.png" width="32"/>
+</i><span>Mog Station</span>
+</div>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+<div class="ldst__bg">
+<div id="breadcrumb">
+<ul class="clearfix" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<li class="breadcrumb__home" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a href="/lodestone/" itemprop="item"><span itemprop="name">HOME</span></a>
+<meta content="1" itemprop="position">
+</meta></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a class="breadcrumb__link" href="/lodestone/community/" itemprop="item"><span itemprop="name">Community</span></a>
+<meta content="2" itemprop="position">
+</meta></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<a class="breadcrumb__link" href="/lodestone/character/" itemprop="item"><span itemprop="name">Character</span></a>
+<meta content="3" itemprop="position">
+</meta></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+<span itemprop="name">Ana Vespertine</span>
+<meta content="4" itemprop="position">
+</meta></li>
+</ul>
+</div>
+<h1 class="heading__title">Character</h1>
+<nav class="btn__corner_block">
+<ul class="btn__corner_block--3">
+<li>
+<a class="btn__menu btn__menu--active" href="/lodestone/character/22125345/">Profile</a>
+</li>
+<li>
+<a class="btn__menu" href="/lodestone/character/22125345/blog/">Blog</a>
+</li>
+<li>
+<a class="btn__menu" href="/lodestone/character/22125345/event/">Events</a>
+</li>
+</ul>
+</nav>
+<div class="ldst__contents clearfix">
+<div class="ldst__main">
+<div class="ldst__window" id="character">
+<h2 class="heading--lg">Character</h2>
+<div class="frame__chara js__toggle_wrapper">
+<a class="frame__chara__link" href="/lodestone/character/22125345/">
+<div class="frame__chara__face">
+<img alt="" height="40" src="https://img2.finalfantasyxiv.com/f/88038558d76b3f9b940c9104b286dc4a_c274370774c6bc3483cc8740805f41bcfc0_96x96.jpg?1715775714" width="40"/>
+</div>
+<div class="frame__chara__box">
+<p class="frame__chara__name">Ana Vespertine</p>
+<p class="frame__chara__title">The Returned</p>
+<p class="frame__chara__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Zodiark [Light]</p>
+</div>
+</a>
+<div class="parts__connect--state js__toggle_trigger">
+<i class="parts__connect_off js__tooltip" data-tooltip="You have no connection with this character."></i>
+</div>
+<div class="parts__switch js__toggle_item">
+<p class="character__connect__text">You have no connection with this character.</p>
+<div class="heading--md-slide">Follower Requests</div>
+<p class="entry__toggle__text">Before this character can be followed, you must first submit a follower request.<br/>Do you wish to proceed?</p>
+<ul class="btn__switch character__connect__form">
+<li><a href="/lodestone/account/login/">Yes</a></li>
+<li><a class="js__toggle_trigger" href="javascript:void(0)">No</a></li>
+</ul>
+</div>
+</div>
+<ul class="character__profile_tab js__character_menu clearfix"><li><a href="/lodestone/character/22125345/#profile">Profile</a></li><li class="character_menu__link"><a href="/lodestone/character/22125345/class_job/">Class/Job</a></li><li class="character_menu__link"><a class="selected" href="javascript:void(null)">Minions</a></li><li class="character_menu__link"><a href="/lodestone/character/22125345/mount/">Mounts</a></li><li class="character_menu__link"><a href="/lodestone/character/22125345/following/">Follow</a></li></ul>
+<div class="character__content selected">
+<h3 class="heading--md">Minions</h3>
+<div class="minion__sort">
+<p class="minion__sort__total">Total: <span>140</span></p>
+</div>
+<div class="character__minion">
+<ul class="character__icon__list js__minion_tooltip js__minion_list">
+<li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/26364ac2a13b1caddd4c4be73857a274f1d43331"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/32/32499e159aabfec75ae59adcc60209c047382a42.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/bbd672bb1ade0f43dc21008b9fb9a2b603753ced"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/9e/9ed9a88950ba83a052d6f7c32efe5bd89530bac7.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/a4febdc67c2657bd10a3a91eccc84ccd3ec19fda"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/29/29307fed1842afae1d555d06639d0844a748efa6.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/8689939afc52a3beae350e314df3fb16f4ca96a2"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/d6/d6cc264080b54a01ca29965d94f6eb6ab13098c1.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/e5b327cb8cda01d4e2659c56c0c8061953c602ec"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/0b/0b82fc4c0aabff3db59a923683b3d695cb9bdee3.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/c800d7d85e0707415ba005b9fbafaf9493c40827"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/03/03a9b9d5084a9353772b50e68af4c05ed3aa1687.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/292ea86203fa1965e36369bb95f9c9573901416b"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/1f/1f92dab74c8f8eaacedd69851d0f7aacec910dc4.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/744fa36ac24cbf414afb7f9e681da174e7c5061f"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/37/37a677e48eac36221ac7f8371f191afb1bea35a9.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/ad968db6ad825a1c0bc0efd3826a518f5dd1e3e3"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/23/23f4f069e9e78636065b946ab77f6defb5e75600.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/5c44123380fdb72e802fe1696da443a7de1bd43b"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/5e/5e9c3c08c66bd3513cc067790cbce43cce9265e0.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/7d7d0b8d81f93bbd19d2c33845343409f440eb90"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/61/6157859677817d7b6ee47cedae86fba3269a4676.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/79dbf91fd4cec6e417913019fd41b04feaef96c9"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/ca/ca8026da532f69542b0c4531e981cf84becfcaf1.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/a9f21557d001442af552c650e39bbac16bf316c0"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/85/85df0639ccd6c2b398a140e365257b8ccb2cdf40.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/6696a13ce9852971bd8cb13803b89066165a26cb"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/7b/7b2e09fde5d1164d602ededa1e875b3c952e5673.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/2f7d6dae980145e318f1045f9b1935f286efaeba"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/d2/d2bd0430973193a51f5820f880bf7cc4e45e5864.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/6e850158e508099668c3925e073beff18188f17c"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/b6/b66c640b89146cc5d7f8790175d8b48b40c8c9d4.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/ae17b65268b168d57ac0dbf0f8dfc0873803960e"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/24/24d7d3979cb86502acea7f6f6fb7e8545b7b4df4.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/773cf8ed355745576830fe1f9b3f379ada819190"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/2d/2d4104a0ab4789f7c232949e2e69e6691f7ea8b1.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/2bde440a5054f974c7be8b5976c2298cbf8150bb"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/e7/e79c8f339727304c490ce58ff2fe23eced9196db.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/a2d3ab319874f54109446abe0216aed9ba46ef58"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/69/69d5150b86887ddbb959c88e062ce6d1bdcae234.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/48bd5187c71e0167bc7ad5525e242da97929ad7e"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/01/01ab10793de96df19ea6c5059bc79960e2f3f21f.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/45ae205386411a0d64a8c07b8840646f2ae71960"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/15/1509c47232fa07b3f1c0b88fc3c05e8221aa655b.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/89f631abe21b595d91099a661d9890983a9600a0"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/04/04d3e61e58659c45bc99d0a015c6a4ddc2d2c72a.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/88701b0cd8e8033cb5c4de182dbc2689405f86f2"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/88/88d5caceb07e921be3fdb855d54887647a36357c.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/83f1878865bd4966699330c8da51c56535b2c35f"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/9d/9d82c4ac1a00229342245b1cb28460c21f475e7f.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/279206dc521c58ec5180400dd55aa3f0d0433326"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/51/5122790e6eae9f1569eb111431d216470492beee.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/ff3505ff1e2269f0d00b86961b83e593faf1d245"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/84/84ecf21a0b11c629cefcc7ecb6b5d657a6fa0acf.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/303576825b1b4036dc0d9eae858b1e97b58d1871"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/b4/b41c58815a995780f6046243a0c3fe2209fb7c9a.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/bf190b56b60d8cb0e04df68fabcd3db999b6d274"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/cc/ccb8f3cb35e8e10342762f7058c2b6cd6c49456b.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/d1669a8c96846aa54e69e22700fb34b9ef665eb4"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/f5/f5466cfed7a3609944a19a09c379efd2b60e7402.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/8aca490fbd622c8f860821792f88dccc3de77411"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/da/da6f2c90822cf1ed32891510f09ed95483b373f5.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/48b44854722b15ec49129c68a0cb86f311cbec35"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/20/20b931f776c9245c022cfeeafd477f0a814bafc7.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/749b47ae7d146d3076547ed1880dff6d19eefd7e"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/94/94ebf319d338e75c2475b0f89a4eebf13703b9a4.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/72c6a7a3a3ccf890e1adbf9704737327cdd09c44"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/61/6164d96425d5327aa54e2f70a0ead03763ff164c.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/0908c338a0c809c391840bae346c34444c1afe28"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/82/821e4a23ae71ef6a26ca66f8a68dd75127f689f6.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/f158bb7f4360a4927a8d3329d952d9231a339f5c"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/7d/7d34af7709bba00a9f8254a13a6e9a2b8653d855.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/711b0f8bd78ac88ece3fe0b2c5eb1248fde555cf"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/f6/f6c742435d44b915ba42e774d946c196ddfb3018.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/eb9eb56109d1dc98454ae38412094da0d588e368"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/d3/d368f77725d559d4adc16751c4697529848f17aa.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/74492fa54a26e115d29746d183b1e8a93aa0db55"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/de/def6bebb565ac1f0f68ec531fca558be4158d8c8.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/ad53e47d1ed753a794771e6e4e1dbadde76073f1"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/1c/1c2e747d93d6131bf4176344207fb66768f9d9fc.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/a718fb9963718490850c8dad9a452be952019e96"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/91/915f6bb794d926e4e0e384c8ee26d86a228b5613.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/195b283f0876ffe930bcf96ba70a60041c154ad5"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/01/01282726bd98f5530b5548af5870eb2320d30bf6.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/331a2b2396a4d9e48d91469694bb8f7f7a1ccc81"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/f7/f797253f51e6b1f6f9d7d2f6dc01f6841d554188.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/17e3fd62dad17d95a0660d137ed59715b7e00e9b"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/c1/c1e3a1c0255cdcb0436e70266a727f92c70a7289.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/81091c1373a8e69b84f3b7d764a7bbf08f7efb4e"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/a9/a9cc6972cea571b71425db2e5aeb3b68ccce49b7.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/a76052476b50bbff3236bbaa2cbf2d480747907b"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/54/543a52e8e593bc41f266b028f43059908fb445ea.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/344f03d87dd05df00bfe416a531c72101db00efc"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/7f/7f5e162c585d5769aa7cb966748b6d2385ab79be.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/89fcd32713f7058f65bb8959c19b478ff4ed7389"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/1d/1d1e4e05be3d13d74a94cb181868c469b70e744c.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/cb5ef9527840681ea16b7213d71cbe79f97ea5d8"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/ba/ba6e5ce16c66333b1f725a44108e05c08ca42c4a.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/bb6478471526db142387ecc755c2951c07ae19b6"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/a6/a61487fcb9b191ee17abc694b91b036524462d68.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/b3b08c281935b29e867fc2f25f2b5fb9338c8d28"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/b7/b7faff07053c2e0bd9c708c03d492029000b1688.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/716e8abffac72bfaa62e1e7d3e8578baa989390f"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/45/45760714411ff6127f452c0e2a2a2d94a1c5e65b.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/857daa6a9caff1bb101491c78d6b25f3d64cb30b"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/69/6931f6d13dbadd81bf785096b1408fd7f5978547.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/c26102e9239a3e2e96b80b381a137ea2ab3425ec"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/a4/a473a54f05435ae77cb1565c4d0e0ba3282aad50.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/da7b6149468a54f5566f5da1c011a5fd6a62546a"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/f3/f3f2965f9565c4bf65a685844c1bc5c77c2f5efc.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/7a0b0ac5beaf2eb6b2242756588159830ef76b60"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/b8/b8317ac46a4f8445a9d804379d33199609dfb57f.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/4d4f55e160c82f1493391d8dca40075fe8b42175"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/ab/ab3fdf778b656b1ee0b0962971b1ceefc7e66fed.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/3fb66377e8e80560769ef6cc14b462b27eec3d09"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/23/230f613147ded91b11559686f738dca05e5a8bd9.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/d7580e486ad0e520748b1fdbeb53975176fc7697"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/08/08b0ae830043b70780751d4113ca267ce6760dbf.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/efb907e2fbf7bc84c4677f372aafb1961c707dd6"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/cd/cd632096ae00d48ab2db86b43a6b85f055497f96.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/e4f66e14cdccbf846d46c34dce72f2008d3acaa0"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/13/13be5a6f81e9027b0bfa68fc8fa5604e37fcfeb8.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/955696f4bb115dcee6bc786d2ab5fd0b63db68f0"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/fa/fae2d21959029502ed613deb32041c0a01f5469b.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/1f04f754effa1d274e43867875de8794402ae451"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/a3/a3a5232de529c45ee7c52fcbd3d69a286ff0c976.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/4653e09227624fa06f0ee12ddfa378c6acc5f4ce"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/d4/d4cef47b20ffa8ccafb23604dc8a4d5f842cd563.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/b8f7f905c327321e67396fa657b48480abe692a2"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/08/086286f28acb29428cf5ed9a82a7d7f9dd6cc3b3.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/1e526a2ce0e6fb62f09dd7f0fb9dfedba69af51d"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/bf/bfc76938effb8bcfdf636d51b6b1dc7f9d489593.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/33bd8fb83fba3147da86d56d7d5bbaa9847967c6"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/ad/adb028c1ed1e42ad198cee32110db5e08ae11a47.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/b65f1deb166951915b3011b021a1fc7b8efbd3e5"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/39/3943cf2ff3cf3286cfc517927a4f2c8d4bbb1e66.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/520d350342d552672072dfd51cf94d9527321f7b"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/7b/7bb051d149e227260949079a40f2714fb2141648.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/b8aac43e0886c1a37f43ea645d0c941bd7c24256"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/10/100a14250c1ed18f9f80b42f1d1388a6b5925164.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/bd06ba24703c383106958fbb6b7facb0525253ff"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/d8/d8658fa945d4777f7f0ebbdd733c50d0035ffb73.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/9d22946b41f48d81474d43ee161505b57917b570"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/88/88f1c695a77425bde620d9004eb4f9a512698efb.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/5346b6ccffc7d9efa891b14ea37687c86cec5d9b"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/48/48d2e457ecadcbce2df221af06387349d7cc3407.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/ea3555f9bffc0602eb7df1a06ad5e2995829a41f"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/eb/ebeea3fff741c7f6e83bdaca924680e3766a6fbf.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/70465fe3e3880587b9b9a2820ecf84a624fdccf1"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/66/66b7323f24c5c70bb40d5d31e8645028f871ac8c.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/db04f1ab5ed3d1d0cb44b883865766fc569f1c84"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/26/268dd5cfc2afc09b50c358fe315d923917e3d2b0.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/b706fff043aa1afce1ad9f7e86203d2cd53d7921"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/81/811ce650288d8647a9d6f0badb7d030fb5fe135e.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/67de9b55b187e01f85887fec454b952818d033e9"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/c2/c2bae0f838cad2536a6f63de060de16a2d5b42fc.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/f397261f468a50c3287052fb655d12a9cd1747e4"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/af/afa289198fd43f5ee83630176e59e0440d551f4a.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/45daf7fb7184a13ed029da7422762df54de6d882"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/fd/fdca5cc50a3053217a272781e182c267ba0d0564.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/13405bdf9cab660683f5814b49854f159c3d41c5"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/17/17daf605f3391814decdd57fd188102881dadd3b.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/7f1ff45b0c30e9ca7a82f01402a246e707aa6899"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/24/24251c30825e8847a6ea17f80a0e33c6f9ee325a.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/9d47ce6aea52b927c4c25c6808ab4e5744ee8423"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/6b/6bc74f76458d73d5f48d0c5bbaa1338f38adcf9f.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/b654b4a1b68aa94b04c7dbb227262dbf10ee285f"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/db/dbe5228fd76abfba655f57bdc16e4d8211f52520.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/badcf61ff79c711dd3183aa027a9e4d5b5138358"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/b9/b98b06318846a69e31a705e3b09097910b752f7a.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/31e64c5b35dc40829825ddd826f2218c47db2995"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/d1/d170333ef0a0693a122b3faea697dd2bb76a47a6.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/937a22578f98b05a4f2397d87ebeff22659ef421"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/04/04376f271cf6c501c22007d774b0a7345e376a25.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/9bfdd49c8b59a976b473cd8c396d3ab933cba210"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/37/37f44cf6dcda9470994ed8448e410ee021f34cc6.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/659a2d0f3e3c23fe410e29f018f50d3df32ba0d6"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/f7/f748ae239106ae884631b24402a328e1c893544f.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/d86ee91745c5ef271d1353ae88de2e5e11d24085"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/35/35972c36e385fc26756474f6cdb69dbc525b2874.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/05270465b0dc31adabf148549a12b667249b0db8"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/70/7091d856fc67e2e62652fd4c428eeda5854dcf88.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/558f4d09929cb94a90239fc9e7cdb0660ee30b43"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/32/32da5210bbe8c47c8751122e363d6c3f3fdb33d6.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/96149ad6ccb11e673ed1026b19fb75517a12bfe3"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/4f/4fda6129e231bb746069f73683fa73534b00b1ba.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/4c0b27c95aa7be73511619e0f5afa8473f6d0a7d"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/b1/b17e4090f7df6b7ae01ed2eb2caf602db7115fd8.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/2f9c2fbacd99d5e6da317ebc2360abe05519345d"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/91/91dcbefdcc32909e533708c85da1943c1835aaa2.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/e7ffae6782431a069e7b24a53647022d63802c16"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/12/12b5032f49a10b89f7b03487ee760490c6d88f4d.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/edd6968ba8a9e0bd70f7feedbd4bf9d70ebf3e3d"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/51/51d013686ee90bd13a35d77c4e932f3dd248f8c0.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/5ba097dc01700fe70ccfb80d6943fabc0e3ca2e9"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/d4/d40c4a617e21a20b2c13e499d90c6ffae78975d4.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/33715afc55f3883de152fd581bd505b33f4b2f64"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/de/de1b8afae30dabac3c8bcd940cdece5834a63cc6.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/68bae5864a4b54cb2a22d4aeeccc3353e5a8e2ad"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/b2/b28e969d97a80f0a0505c081fc652dd5b8320d31.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/7d791f7d3e804eb1778829b84ea1077261e4172e"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/4d/4d595ba88aacf9c4a68f315fa60287b11a5e64ac.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/ac60009967da53c037649e3287f1d56385ce348d"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/d8/d8666795d88025ac8283db68e5df2aa337a51749.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/d29dca7b3e4f705906e1c204bb2617a088b32f79"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/fe/fea75bb50366751df92350909dc00ee8ff404f54.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/caa3461980e78cfcbba421e07ef93f731618f34b"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/26/26b68b1e7de5378617b905c0e26c00cd761f25ac.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/636f8747fe29fba3af7d65a05dc1f3c902697162"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/41/41e114da68217c296947f6cd8173950b093f04c8.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/50ec0d6ab59915cd67ad2204fc3bb9e705c690f0"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/2c/2c42c0b8532256b06a05b535d72164d5fff7e6b0.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/5afb6bcf5c033ad19b5716854deeedea65049d54"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/18/184836d812877c0f64807b414e218cc93abb3ad8.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/33a21a3f2b72aaf6d9a584ee43ee0283a9afb967"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/1b/1b8b6489c7e8b032824153447f9fd2ac3d4f24a0.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/5c87bcd4c0668fc9b48e7a33120a0a61b3161c02"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/09/09958624f9c4703f069bf6400993c7766141bfb6.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/dbc76022a83d959f70b6107cb914640126e2ddd0"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/f7/f77c8a94cc4b8ea1251e6a2551a56939818db061.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/244b96af28905e5d11004fc1fea425935397a725"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/63/63599f432e5d91e21a7937b2ce55f188260eb002.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/582c0e767cd797eaa36a4300b1340251230a0fae"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/8c/8c8a9cf4167c72dc1bf980f744ccc83f96af70ff.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/9f7835e7f4851a0dd0733c1df73d637caf8344e4"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/3a/3a4df34a5cadfdf2dd153d260f846c1d4b9cdf43.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/76f46a1aa0d1cb71b6f4ea003f9c63ad2b8f9e8f"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/27/27d443a8a3051c735e61e915ad4c930d1bce7adb.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/4edde5f2dd2613872a81679e3b0717ed2a388f90"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/26/26595da5c4707beb07dbfe70db15ed4bdafac265.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/5a11e23d1eb1aeb8ddbd5b70d6402eb5608db622"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/94/94252b7cbfb122f302a4c4a12e06e770a3efb1a7.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/6cc6b8654f3a0f86d01db437a5787b06ee246b67"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/5b/5beccf84751864508a6c138e7d73b779f445e3e5.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/2307ce4271c723238b9fefe31301488d601a8927"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/7c/7cc20579365eaf593c1f5deba1d78851becb5ee3.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/e48587847372488383a5d23f48a37f5fa2b28461"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/38/382914fc35e2a8ffb1d3832053f21bd1e2dd0e43.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/002f24a21a36fea40c1f57ba7d176163542c6805"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/81/81906792c06ce4edaa4c726defc28454245ce394.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/bea38eacc1353931c485294a158420a1b974e307"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/67/670fae2cdfddd22e50009b1697887d310b03a1ef.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/3ecd437ffdb5fb8db478d4712731066ffb75b652"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/a6/a6f6719398448f7cb5d480784ebda6a20de054bb.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/9c29cb5b1a6e9840324a40cf0694e789825eb331"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/d5/d591cab66fb42c604eebeae009145f5f93736779.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/7af61c001fcfa002a0611d808a269a1c5ba79505"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/f7/f7cf29a64f822c2b0a123a75d18473a53a19c93d.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/9b37d7e89869bdc118f3385bbbc0862cc7f5756a"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/8b/8ba5d85d59358ea6696b930c8181969b503b5bc5.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/15a5b4da07821344c73e4d082e302766e21d8274"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/cb/cbe514f40d4fe467eacef0569d56a0c58186064d.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/687b3308c8ddf8672a1af13ba494f4f42b0c5534"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/a7/a7985f909cbdbf626759ea9284b4990e8472d000.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/706ef72cb79c3dc3122c6a6f464d2738a4de6e0a"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/32/3271152642d837457e39891a54cf936d51bb87b9.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/c8c8a7fae7ce5e85b1c3d5a8f2f1cc8ffee94233"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/4d/4d27f18161576abb6dde166129c70c3d5ece9c96.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/3c357d5f548ff11deed231f384f99acbb9b36f65"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/c8/c8e8b78a8c1eb14543701e0e735bc79d1b7854b5.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/74d5d92a23c736df76e2f5c29fd8c5a61692453d"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/70/705975792015ce8d017c7f91a5ddb0d221d0f8e7.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/9b5159c551a58297591740f96c5faa4e5f616a1f"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/aa/aa5ce61b0bb227cf98d7a78b2cf92888fab1fce7.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/2443f078b0b42d466ce84bf8af0a242464242ab5"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/e6/e6b859143faa3181948f1337cd7b4d26e26132a0.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/f94738b0224a9faf3c39ead74cd9e99a4dd131c9"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/ec/ecca223c806be09b0571dffce09863566b20f170.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/c6ce7ce4aeb22bab7cf7c37880cab976c0eb2222"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/1a/1a720b562e65315db009c722c91e0d14cbc07f40.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/c0b2371862353ef669e028ab472446c079fd5c41"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/1e/1e7b8df6de7a9c538db2aa527848b9945c01e0f4.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/6ca0a660b2b91a109ea76f98b4e40d4179157041"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/fb/fbe135e9d8379bd942d45d39f1d1e13917ada74c.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/1dc2fc6efce0927a927fd23a322a350589e826ff"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/cd/cd69c42539979b859af1fc84602e8c98186a7f8e.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/ca1160db8649ed716642e0f61038c93ce8f45fdc"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/c1/c16afc4e483c73431f82124c710d6200d0cf5da4.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li><li class="minion__list_icon" data-tooltip_href="/lodestone/character/22125345/minion/tooltip/234c43cbb688a211b73612c686abd73aac528b0a"><div class="character__item_icon"><img alt="" class="character__item_icon__img" height="40" src="https://lds-img.finalfantasyxiv.com/itemicon/b8/b83c30741608cd02586f32e70d441f3c369a75f4.png?n6.58" width="40"/><div class="character__item_icon--frame"></div><img alt="" class="character__item_icon__hover" height="48" src="https://lds-img.finalfantasyxiv.com/h/H/460ZBYyhODi1RNXXV-1hck8V40.png" width="48"/></div></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="ldst__side">
+<ul class="l__rside__bnr clearfix">
+<li>
+<a class="l__rside__bnr--mog_station" href="https://secure.square-enix.com/account/app/svc/mogstation/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_mogstation" target="_blank">
+<img alt="Mog Station" height="48" src="https://lds-img.finalfantasyxiv.com/h/1/71x9270TssyZ-BY15BGKLpQ3_U.png" width="150"/>
+</a>
+</li>
+<li>
+<a class="l__rside__bnr--store" href="https://store.finalfantasyxiv.com/ffxivstore/" target="_blank">
+<img alt="" height="48" src="https://lds-img.finalfantasyxiv.com/h/c/WT9jpRaUeWfj_sHl9O2DibFQFw.png" width="150"/>
+</a>
+</li>
+<li>
+<a class="l__rside__bnr--forums" href="https://forum.square-enix.com/ffxiv/forum.php?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_forum" target="_blank">
+<img alt="Forums" height="48" src="https://lds-img.finalfantasyxiv.com/h/1/ENqmaGOvDLAmv2rsXL-19Y22qs.png" width="150"/>
+</a>
+</li>
+<li>
+<a class="l__rside__bnr--blog" href="/pr/blog/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_officalblog" target="_blank">
+<img alt="Official Blog" height="48" src="https://lds-img.finalfantasyxiv.com/h/n/dzlIJG3KqRiEbORwH2d7LzyZaI.png" width="150"/>
+</a>
+</li>
+</ul>
+<div class="mb10"><a href="/dawntrail/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_dawntrail"><img src="https://lds-img.finalfantasyxiv.com/banner/1349/v70_240326_na.jpg"/></a></div>
+<div class="mb10"><a href="/lodestone/special/2024/the_make_it_rain_campaign/jgmo8djkm5?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_the_make_it_rain_campaign/"><img src="https://lds-img.finalfantasyxiv.com/banner/1369/mnbn_the_make_it_rain_campaign2024_en.jpg"/></a></div>
+<div class="mb10"><a href="/lodestone/special/mogmog-collection/202405/nprq4eanp3?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_mogmog-collection"><img src="https://lds-img.finalfantasyxiv.com/banner/1374/mogmog14_na.jpg"/></a></div>
+<div class="mb10"><a href="/lodestone/special/2024/youkai-watch/j9rq1fpxxd?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_youkai-watch"><img src="https://lds-img.finalfantasyxiv.com/banner/1364/YKW2024_na.jpg"/></a></div>
+<div class="mb10"><a href="	/jobguide/battle/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_jobguide"><img src="https://lds-img.finalfantasyxiv.com/banner/1088/jobguide_v60_na.jpg"/></a></div>
+<div class="mb10"><a href="/crafting_gathering_guide/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_cgguide"><img src="https://lds-img.finalfantasyxiv.com/banner/1128/CGguide_v60_na.jpg"/></a></div>
+<div class="mb10"><a href="/uiguide/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_uiguide"><img src="https://lds-img.finalfantasyxiv.com/banner/670/uiguide_na.jpg"/></a></div>
+<div class="conducting_area">
+<img alt="" height="240" src="https://lds-img.finalfantasyxiv.com/h/T/3hPmZ8KEo1MvQW55aPFK7vwOgs.png" width="300"/>
+<div class="inr">
+<a class="bt_conducting" href="
+				http://freetrial.finalfantasyxiv.com/">
+<img alt="Start Your Free Trial" height="80" src="https://lds-img.finalfantasyxiv.com/h/s/3KRua4vzZJvRXn0IMk8Da103bw.png" width="284"/>
+</a>
+<a class="bt_conducting" href="http://sqex.to/buyffxiv?utm_source=lodestone&amp;utm_medium=pc_buyarea&amp;utm_campaign=na_buynow" target="_blank">
+<img alt="BUY NOW!" height="80" src="https://lds-img.finalfantasyxiv.com/h/p/to8CzK_gktAHpLuSGzCkNdLfWo.png" width="284"/>
+</a> <a class="bt_ft_migration" href="http://support.na.square-enix.com/faqarticle.php?id=5382&amp;la=1&amp;kid=70905" onmousedown="ga('send', 'event', 'lodestone_na', 'howtoupgrade_link', 'NA-lodestone-UG_20170620', true);"> <img alt="Upgrade Your Free Trial&lt;br /&gt;to the Full Version" height="80" src="https://lds-img.finalfantasyxiv.com/h/0/5rrJdYAcP3if6zX6d62dHV3t34.png" width="260"/>
+</a>
+</div>
+</div>
+<div class="mb10"><a href="https://starter-guide.finalfantasyxiv.com/na/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_starter-guide" target="_blank"><img src="https://lds-img.finalfantasyxiv.com/banner/1174/FFXIV_StarterGuide_WebsitePlacement_300x120_NA.jpg"/></a></div>
+<div class="mb10"><a href="/tales_of_adventure/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_tales_of_adventure"><img src="https://lds-img.finalfantasyxiv.com/banner/1078/LDS_Tales_of_Adventure_v60_na.jpg"/></a></div>
+<div class="mb10"><a href="/lodestone/special/friend_recruit/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_friendrecruit"><img src="https://lds-img.finalfantasyxiv.com/banner/202/bn_Recruit_a_Friend_na.png"/></a></div>
+<div class="ldst__side__box">
+<div class="heading--side">
+<h3>Community Wall</h3>
+<a class="heading--side__icon icon-list__side js__tooltip" data-tooltip="See More" href="/lodestone/community/"></a>
+</div>
+<div class="heading__icon parts__space--reset js__toggle_wrapper">
+<h4>Recent Activity</h4>
+<i class="icon-btn__filter js__toggle_trigger js__tooltip" data-tooltip="Filter"></i>
+<div class="parts__switch parts__switch--filter js__toggle_item">
+<p class="parts__text">
+			Filter which items are to be displayed below.<br/>
+<span class="parts__text__notes">
+				* Notifications for standings updates are shared across all Worlds.<br/>
+				* Notifications for PvP team formations are shared for all languages.<br/>
+				* Notifications for free company formations are shared for all languages.
+			</span>
+</p>
+<div class="form__horizontal js__communitywall_filter">
+<input name="order" type="hidden" value=""/><h5 class="heading--side--lead">Sort by</h5><ul class="form__row parts__spce--8"><li><input class="form__checkbox" id="community_type01" name="community_type" type="checkbox" value="blog"/><label class="form__checkbox__label" for="community_type01">Blog</label></li><li><input class="form__checkbox" id="community_type02" name="community_type" type="checkbox" value="event"/><label class="form__checkbox__label" for="community_type02">Event &amp; Party Recruitment</label></li><li><input class="form__checkbox" id="community_type03" name="community_type" type="checkbox" value="fc"/><label class="form__checkbox__label" for="community_type03">Free Company</label></li><li><input class="form__checkbox" id="community_type04" name="community_type" type="checkbox" value="db"/><label class="form__checkbox__label" for="community_type04">Eorzea Database</label></li><li><input class="form__checkbox" id="community_type05" name="community_type" type="checkbox" value="ranking"/><label class="form__checkbox__label" for="community_type05">Standings</label></li><li><input class="form__checkbox" id="community_type06" name="community_type" type="checkbox" value="pvpteam"/><label class="form__checkbox__label" for="community_type06">PvP Team</label></li><li><input class="form__checkbox" id="community_type07" name="community_type" type="checkbox" value="community_finder"/><label class="form__checkbox__label" for="community_type07">Community Finder</label></li></ul><h5 class="heading--side--lead">Data Center / Home World</h5><div class="select-pulldown"><label class="control-label" for="world"></label><select class="select-pulldown__open" name="community_worldname"><option value="">Select All</option><optgroup label="Data Center"><option value="_dc_Aether">Aether</option><option value="_dc_Crystal">Crystal</option><option value="_dc_Dynamis">Dynamis</option><option value="_dc_Primal">Primal</option><option value="_dc_Chaos">Chaos</option><option value="_dc_Light">Light</option><option value="_dc_Materia">Materia</option><option value="_dc_Elemental">Elemental</option><option value="_dc_Gaia">Gaia</option><option value="_dc_Mana">Mana</option><option value="_dc_Meteor">Meteor</option></optgroup><optgroup label="Home World"><option value="Adamantoise">Adamantoise</option><option value="Aegis">Aegis</option><option value="Alexander">Alexander</option><option value="Alpha">Alpha</option><option value="Anima">Anima</option><option value="Asura">Asura</option><option value="Atomos">Atomos</option><option value="Bahamut">Bahamut</option><option value="Balmung">Balmung</option><option value="Behemoth">Behemoth</option><option value="Belias">Belias</option><option value="Bismarck">Bismarck</option><option value="Brynhildr">Brynhildr</option><option value="Cactuar">Cactuar</option><option value="Carbuncle">Carbuncle</option><option value="Cerberus">Cerberus</option><option value="Chocobo">Chocobo</option><option value="Coeurl">Coeurl</option><option value="Diabolos">Diabolos</option><option value="Durandal">Durandal</option><option value="Excalibur">Excalibur</option><option value="Exodus">Exodus</option><option value="Faerie">Faerie</option><option value="Famfrit">Famfrit</option><option value="Fenrir">Fenrir</option><option value="Garuda">Garuda</option><option value="Gilgamesh">Gilgamesh</option><option value="Goblin">Goblin</option><option value="Gungnir">Gungnir</option><option value="Hades">Hades</option><option value="Halicarnassus">Halicarnassus</option><option value="Hyperion">Hyperion</option><option value="Ifrit">Ifrit</option><option value="Ixion">Ixion</option><option value="Jenova">Jenova</option><option value="Kujata">Kujata</option><option value="Lamia">Lamia</option><option value="Leviathan">Leviathan</option><option value="Lich">Lich</option><option value="Louisoix">Louisoix</option><option value="Maduin">Maduin</option><option value="Malboro">Malboro</option><option value="Mandragora">Mandragora</option><option value="Marilith">Marilith</option><option value="Masamune">Masamune</option><option value="Mateus">Mateus</option><option value="Midgardsormr">Midgardsormr</option><option value="Moogle">Moogle</option><option value="Odin">Odin</option><option value="Omega">Omega</option><option value="Pandaemonium">Pandaemonium</option><option value="Phantom">Phantom</option><option value="Phoenix">Phoenix</option><option value="Ragnarok">Ragnarok</option><option value="Raiden">Raiden</option><option value="Ramuh">Ramuh</option><option value="Ravana">Ravana</option><option value="Ridill">Ridill</option><option value="Sagittarius">Sagittarius</option><option value="Sargatanas">Sargatanas</option><option value="Sephirot">Sephirot</option><option value="Seraph">Seraph</option><option value="Shinryu">Shinryu</option><option value="Shiva">Shiva</option><option value="Siren">Siren</option><option value="Sophia">Sophia</option><option value="Spriggan">Spriggan</option><option value="Tiamat">Tiamat</option><option value="Titan">Titan</option><option value="Tonberry">Tonberry</option><option value="Twintania">Twintania</option><option value="Typhon">Typhon</option><option value="Ultima">Ultima</option><option value="Ultros">Ultros</option><option value="Unicorn">Unicorn</option><option value="Valefor">Valefor</option><option value="Yojimbo">Yojimbo</option><option value="Zalera">Zalera</option><option value="Zeromus">Zeromus</option><option value="Zodiark">Zodiark</option><option value="Zurvan">Zurvan</option></optgroup></select></div><h5 class="heading--side--lead">Primary language</h5><div class="select-pulldown"><label class="control-label" for="lang"></label><select class="select-pulldown__open" name="community_lang"><option value="">Select All</option><option value="ja">Japanese</option><option value="en">English</option><option value="de">German</option><option value="fr">French</option></select></div><h5 class="heading--side--lead">Displaying</h5><div class="select-pulldown"><label class="control-label" for="limit"></label><select class="select-pulldown__open" name="community_limit"><option value="10">10</option><option value="20">20</option><option value="30">30</option></select></div><div class="form__submit form__submit--full"><input class="js__bt_communitywall_filter" type="submit" value="Filter"/></div>
+</div>
+</div>
+</div>
+<ul class="side__list__box">
+<div class="entry more_"><a class="entry__activity" href="/lodestone/character/33927687/blog/5391636/"><div class="entry__activity__box"><div class="entry__activity__box__header clearfix"><time class="entry__activity__time"><span class="datetime_dynamic_ymdhm" data-epoch="1715775718" id="datetime-0774725ee98">-</span><script>document.getElementById('datetime-0774725ee98').innerHTML = ldst_strftime_dynamic_ymdhm(1715775718);</script></time><div class="entry__activity__data"><p class="entry__activity__data--name">Lucille Craig</p><p class="entry__activity__data--world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Alexander [Gaia]</p></div></div><div class="entry__activity__txt"><div class="entry__activity__txt--icon"><span class="icon-activity__blog js__tooltip" data-tooltip="Blog"></span></div><div class="entry__activity__txt--message"><p>Lucille Craig (<i class="xiv-lds xiv-lds-home-world"></i>Alexander) posted a new blog entry, "『大きな籠』道具市・ 寝具店「雲に枕」ズボラセット カタログページ."</p></div></div></div></a><a class="entry__activity__link" href="/lodestone/character/33927687/"><div class="entry__chara__face"><img alt="" height="40" src="https://img2.finalfantasyxiv.com/f/423700f58397d46ea903ae840ccb393f_b7a71d8799cf6dd75b711a7f52de6675fc0_96x96.jpg?1715773730" width="40"/></div></a></div>
+<div class="entry more_"><a class="entry__activity" href="/lodestone/community_finder/3352f4e8f22657c4ca3f23e2b6c981335eaf60b0/"><div class="entry__activity__box"><div class="entry__activity__box__header clearfix"><time class="entry__activity__time"><span class="datetime_dynamic_ymdhm" data-epoch="1715775669" id="datetime-33b50f739f7">-</span><script>document.getElementById('datetime-33b50f739f7').innerHTML = ldst_strftime_dynamic_ymdhm(1715775669);</script></time><div class="entry__activity__data"><p class="entry__activity__data--name">Lir Eryut</p><p class="entry__activity__data--world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Chocobo [Mana]</p></div></div><div class="entry__activity__txt"><div class="entry__activity__txt--icon"><span class="icon-activity__community_finder js__tooltip" data-tooltip="Community Finder"></span></div><div class="entry__activity__txt--message"><p>Lir Eryut (<i class="xiv-lds xiv-lds-home-world"></i>Chocobo) has started recruitment for the free company "Do Ge Za (Chocobo)."</p></div></div></div></a><a class="entry__activity__link" href="/lodestone/character/5286906/"><div class="entry__chara__face"><img alt="" height="40" src="https://img2.finalfantasyxiv.com/f/774aa9238a16d62e9f0421e741b83d5c_781d6b3603312f6be41670afa37282e0fc0_96x96.jpg?1715775323" width="40"/></div></a></div>
+<div class="entry more_"><a class="entry__activity" href="/lodestone/character/16702590/blog/5391634/"><div class="entry__activity__box"><div class="entry__activity__box__header clearfix"><time class="entry__activity__time"><span class="datetime_dynamic_ymdhm" data-epoch="1715775629" id="datetime-10bb69c90b7">-</span><script>document.getElementById('datetime-10bb69c90b7').innerHTML = ldst_strftime_dynamic_ymdhm(1715775629);</script></time><div class="entry__activity__data"><p class="entry__activity__data--name">Renard Row</p><p class="entry__activity__data--world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Unicorn [Meteor]</p></div></div><div class="entry__activity__txt"><div class="entry__activity__txt--icon"><span class="icon-activity__blog js__tooltip" data-tooltip="Blog"></span></div><div class="entry__activity__txt--message"><p>Renard Row (<i class="xiv-lds xiv-lds-home-world"></i>Unicorn) posted a new blog entry, "アルカディア零式6週目くらいの目標の固定を探しています。."</p></div></div></div></a><a class="entry__activity__link" href="/lodestone/character/16702590/"><div class="entry__chara__face"><img alt="" height="40" src="https://img2.finalfantasyxiv.com/f/eb8b5e3c3d842fba23b8c0e02343a59c_393eb74047bb90c8d80dea54218430eefc0_96x96.jpg?1715773329" width="40"/></div></a></div>
+<div class="entry more_"><a class="entry__activity" href="/lodestone/freecompany/9229705223830920092/"><div class="entry__activity__box"><div class="entry__activity__box__header--common clearfix"><time class="entry__activity__time"><span class="datetime_dynamic_ymdhm" data-epoch="1715775561" id="datetime-ce5163ba684">-</span><script>document.getElementById('datetime-ce5163ba684').innerHTML = ldst_strftime_dynamic_ymdhm(1715775561);</script></time></div><div class="entry__activity__txt"><div class="entry__activity__txt--icon"><span class="icon-activity__fc js__tooltip" data-tooltip="Free Company"></span></div><div class="entry__activity__txt--message"><p>LoH (Carbuncle) has been formed.</p></div></div></div></a><div class="entry__activity__link"><img alt="" height="50" src="https://lds-img.finalfantasyxiv.com/h/9/_Huf58epDlt9vXiO8IIfPXxtXI.png" width="50"/></div></div>
+<div class="entry more_"><a class="entry__activity" href="/lodestone/freecompany/9227734898993940013/"><div class="entry__activity__box"><div class="entry__activity__box__header--common clearfix"><time class="entry__activity__time"><span class="datetime_dynamic_ymdhm" data-epoch="1715775560" id="datetime-399442f4045">-</span><script>document.getElementById('datetime-399442f4045').innerHTML = ldst_strftime_dynamic_ymdhm(1715775560);</script></time></div><div class="entry__activity__txt"><div class="entry__activity__txt--icon"><span class="icon-activity__fc js__tooltip" data-tooltip="Free Company"></span></div><div class="entry__activity__txt--message"><p>Yuduki Series (Yojimbo) has been formed.</p></div></div></div></a><div class="entry__activity__link"><img alt="" height="50" src="https://lds-img.finalfantasyxiv.com/h/9/_Huf58epDlt9vXiO8IIfPXxtXI.png" width="50"/></div></div>
+<div class="entry more_"><a class="entry__activity" href="/lodestone/character/39492400/blog/5391631/"><div class="entry__activity__box"><div class="entry__activity__box__header clearfix"><time class="entry__activity__time"><span class="datetime_dynamic_ymdhm" data-epoch="1715775447" id="datetime-7fc157196be">-</span><script>document.getElementById('datetime-7fc157196be').innerHTML = ldst_strftime_dynamic_ymdhm(1715775447);</script></time><div class="entry__activity__data"><p class="entry__activity__data--name">Campagna Ochii</p><p class="entry__activity__data--world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Bahamut [Gaia]</p></div></div><div class="entry__activity__txt"><div class="entry__activity__txt--icon"><span class="icon-activity__blog js__tooltip" data-tooltip="Blog"></span></div><div class="entry__activity__txt--message"><p>Campagna Ochii (<i class="xiv-lds xiv-lds-home-world"></i>Bahamut) posted a new blog entry, "5/19(火)22:00～0:00　24年5月第2回　フリーカンパニー運営相談会のお知らせ."</p></div></div></div></a><a class="entry__activity__link" href="/lodestone/character/39492400/"><div class="entry__chara__face"><img alt="" height="40" src="https://img2.finalfantasyxiv.com/f/99586077cb4234c4dd72baa810e61840_86da943caa70c8694707ab2ff74e68c9fc0_96x96.jpg?1715772496" width="40"/></div></a></div>
+<div class="entry more_"><a class="entry__activity" href="/lodestone/freecompany/9234490298435004271/"><div class="entry__activity__box"><div class="entry__activity__box__header--common clearfix"><time class="entry__activity__time"><span class="datetime_dynamic_ymdhm" data-epoch="1715775068" id="datetime-2c2cb00551c">-</span><script>document.getElementById('datetime-2c2cb00551c').innerHTML = ldst_strftime_dynamic_ymdhm(1715775068);</script></time></div><div class="entry__activity__txt"><div class="entry__activity__txt--icon"><span class="icon-activity__fc js__tooltip" data-tooltip="Free Company"></span></div><div class="entry__activity__txt--message"><p>Golden Kamuy (Cactuar) has been formed.</p></div></div></div></a><div class="entry__activity__link"><img alt="" height="50" src="https://lds-img.finalfantasyxiv.com/h/9/_Huf58epDlt9vXiO8IIfPXxtXI.png" width="50"/></div></div>
+<div class="entry more_"><a class="entry__activity" href="/lodestone/freecompany/9237164310713748490/"><div class="entry__activity__box"><div class="entry__activity__box__header--common clearfix"><time class="entry__activity__time"><span class="datetime_dynamic_ymdhm" data-epoch="1715775010" id="datetime-49f94750cfe">-</span><script>document.getElementById('datetime-49f94750cfe').innerHTML = ldst_strftime_dynamic_ymdhm(1715775010);</script></time></div><div class="entry__activity__txt"><div class="entry__activity__txt--icon"><span class="icon-activity__fc js__tooltip" data-tooltip="Free Company"></span></div><div class="entry__activity__txt--message"><p>Golden F Ridill 02 (Ridill) has been formed.</p></div></div></div></a><div class="entry__activity__link"><img alt="" height="50" src="https://lds-img.finalfantasyxiv.com/h/9/_Huf58epDlt9vXiO8IIfPXxtXI.png" width="50"/></div></div>
+<div class="entry more_"><a class="entry__activity" href="/lodestone/character/36325924/event/77927/"><div class="entry__activity__box"><div class="entry__activity__box__header clearfix"><time class="entry__activity__time"><span class="datetime_dynamic_ymdhm" data-epoch="1715774901" id="datetime-68c021bc81d">-</span><script>document.getElementById('datetime-68c021bc81d').innerHTML = ldst_strftime_dynamic_ymdhm(1715774901);</script></time><div class="entry__activity__data"><p class="entry__activity__data--name">Petan Looof</p><p class="entry__activity__data--world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Valefor [Meteor]</p></div></div><div class="entry__activity__txt"><div class="entry__activity__txt--icon"><span class="icon-activity__event js__tooltip" data-tooltip="My Events"></span></div><div class="entry__activity__txt--message"><p>Petan Looof (<i class="xiv-lds xiv-lds-home-world"></i>Valefor) has created the event "カッパの着ぐるみ＆ヒラだけで行くタレイア." </p></div></div></div></a><a class="entry__activity__link" href="/lodestone/character/36325924/"><div class="entry__chara__face"><img alt="" height="40" src="https://img2.finalfantasyxiv.com/f/8a75c7023fd7d3318fe2eb33abf67746_485f4777c38002871591fb54f27edc65fc0_96x96.jpg?1715772763" width="40"/></div></a></div>
+<div class="entry more_" data-has_next="" data-min_id="6771730358"><a class="entry__activity" href="/lodestone/character/17471563/blog/5391629/"><div class="entry__activity__box"><div class="entry__activity__box__header clearfix"><time class="entry__activity__time"><span class="datetime_dynamic_ymdhm" data-epoch="1715774888" id="datetime-b4f6d6c1149">-</span><script>document.getElementById('datetime-b4f6d6c1149').innerHTML = ldst_strftime_dynamic_ymdhm(1715774888);</script></time><div class="entry__activity__data"><p class="entry__activity__data--name">Omochi Kinako</p><p class="entry__activity__data--world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Chocobo [Mana]</p></div></div><div class="entry__activity__txt"><div class="entry__activity__txt--icon"><span class="icon-activity__blog js__tooltip" data-tooltip="Blog"></span></div><div class="entry__activity__txt--message"><p>Omochi Kinako (<i class="xiv-lds xiv-lds-home-world"></i>Chocobo) posted a new blog entry, "絶対に許さない."</p></div></div></div></a><a class="entry__activity__link" href="/lodestone/character/17471563/"><div class="entry__chara__face"><img alt="" height="40" src="https://img2.finalfantasyxiv.com/f/43282e73e25e340eabac6b345afdd0c5_781d6b3603312f6be41670afa37282e0fc0_96x96.jpg?1715773217" width="40"/></div></a></div>
+</ul>
+</div>
+<div class="ldst__side__box">
+<div class="heading--side">
+<h3>Standings</h3>
+<a class="heading--side__icon icon-list__side js__tooltip" data-tooltip="See More" href="/lodestone/ranking/"></a>
+</div>
+<h4 class="heading--side--sm">Crystalline Conflict Standings</h4>
+<ul>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/crystallineconflict/">
+<p class="entry__ranking__rank">
+						1
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">Noga Cosnoh</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Cactuar [Aether]</p>
+</div>
+</a>
+<a class="entry__ranking__face" href="/lodestone/character/12058107/">
+<img alt="" height="50" src="https://img2.finalfantasyxiv.com/f/2ed29f4458018d1f538dd14b47de63b0_96ab1df8877c1f8ba6a89a39cccfd437fc0_96x96.jpg?1715774811" width="50"/>
+</a>
+</li>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/crystallineconflict/">
+<p class="entry__ranking__rank">
+						2
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">Crystal Tourist</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Adamantoise [Aether]</p>
+</div>
+</a>
+<a class="entry__ranking__face" href="/lodestone/character/50957389/">
+<img alt="" height="50" src="https://img2.finalfantasyxiv.com/f/6fe84316d7c61d1bd01fb10f0f7c4cea_1f5fd239b885860b7c2bfc72ad1d97effc0_96x96.jpg?1715775623" width="50"/>
+</a>
+</li>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/crystallineconflict/">
+<p class="entry__ranking__rank">
+						3
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">Bryn Creature</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Siren [Aether]</p>
+</div>
+</a>
+<a class="entry__ranking__face" href="/lodestone/character/48133438/">
+<img alt="" height="50" src="https://img2.finalfantasyxiv.com/f/1ae67fab78b36dc1a625cdf6f4b9383d_58a84e851e55175d22158ca97af58a1ffc0_96x96.jpg?1715773271" width="50"/>
+</a>
+</li>
+</ul>
+<h4 class="heading--side--sm">Grand Company Standings</h4>
+<ul>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/gc/weekly/">
+<p class="entry__ranking__rank">
+						1
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">Mayfair Somerset</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Ifrit [Gaia]</p>
+</div>
+</a>
+<a class="entry__ranking__face" href="/lodestone/character/12803039/">
+<img alt="" height="50" src="https://img2.finalfantasyxiv.com/f/e7ceef3831143d0f6530687ff6290f72_f9f796348bc43067c7242ec4551cde69fc0_96x96.jpg?1715775536" width="50"/>
+</a>
+</li>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/gc/weekly/">
+<p class="entry__ranking__rank">
+						2
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">Holy Sheet</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Cactuar [Aether]</p>
+</div>
+</a>
+<a class="entry__ranking__face" href="/lodestone/character/38584266/">
+<img alt="" height="50" src="https://img2.finalfantasyxiv.com/f/0a40758d6a04431b5c7038881f1b7549_96ab1df8877c1f8ba6a89a39cccfd437fc0_96x96.jpg?1715773757" width="50"/>
+</a>
+</li>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/gc/weekly/">
+<p class="entry__ranking__rank">
+						3
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">Astolfo Rider</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Leviathan [Primal]</p>
+</div>
+</a>
+<a class="entry__ranking__face" href="/lodestone/character/17585847/">
+<img alt="" height="50" src="https://img2.finalfantasyxiv.com/f/4aa84836ec32cda7a8092b8c6eb0c70b_a91aae52cff9ef65932db06b150ffd47fc0_96x96.jpg?1715775397" width="50"/>
+</a>
+</li>
+</ul>
+<h4 class="heading--side--sm">Free Company Standings</h4>
+<ul>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/fc/weekly/">
+<p class="entry__ranking__rank">
+						1
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">The Studium</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Ravana [Materia]</p>
+</div>
+</a>
+<a class="entry__ranking__crest" href="/lodestone/freecompany/9226327524110241749/">
+<img height="40" src="https://img2.finalfantasyxiv.com/c/B3d_68585a4e1dc533f1fdd2bac0561a24b6_cd_40x40.png" width="40"/>
+<img height="40" src="https://img2.finalfantasyxiv.com/c/F34_cde5180211f1a2fa784032b17fa21932_00_40x40.png" width="40"/>
+<img height="40" src="https://img2.finalfantasyxiv.com/c/S0e_071805070c79764108b81282e9e42220_02_40x40.png" width="40"/>
+</a>
+</li>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/fc/weekly/">
+<p class="entry__ranking__rank">
+						2
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">Shinedown</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Valefor [Meteor]</p>
+</div>
+</a>
+<a class="entry__ranking__crest" href="/lodestone/freecompany/9230690386249378390/">
+<img height="40" src="https://img2.finalfantasyxiv.com/c/B10_0e99a67ba2e4d1b5db95f1730fdc091a_00_40x40.png" width="40"/>
+<img height="40" src="https://img2.finalfantasyxiv.com/c/F29_323b09240bacccde980e80d45b082fd6_00_40x40.png" width="40"/>
+<img height="40" src="https://img2.finalfantasyxiv.com/c/S6a_ecbd94a95d39b9453fd103e1a7cd2c3c_01_40x40.png" width="40"/>
+</a>
+</li>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/fc/weekly/">
+<p class="entry__ranking__rank">
+						3
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">Newtype Destroyer</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Ixion [Mana]</p>
+</div>
+</a>
+<a class="entry__ranking__crest" href="/lodestone/freecompany/9230127436295933163/">
+<img height="40" src="https://img2.finalfantasyxiv.com/c/F00_f4d64b4d75ce7d3be3ba37e24ccc7830_00_40x40.png" width="40"/>
+<img height="40" src="https://img2.finalfantasyxiv.com/c/S02_e4ecc91f18ffeea79c65a3b0a101f184_00_40x40.png" width="40"/>
+</a>
+</li>
+</ul>
+<h4 class="heading--side--sm">Frontline Standings</h4>
+<ul>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/frontline/weekly/">
+<p class="entry__ranking__rank">
+						1
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">Asuna Kitsune</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Zodiark [Light]</p>
+</div>
+</a>
+<a class="entry__ranking__face" href="/lodestone/character/21706222/">
+<img alt="" height="50" src="https://img2.finalfantasyxiv.com/f/ea5762243c0f23f0b5d6d9ce17bfd2ec_c274370774c6bc3483cc8740805f41bcfc0_96x96.jpg?1715772709" width="50"/>
+</a>
+</li>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/frontline/weekly/">
+<p class="entry__ranking__rank">
+						2
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">Biorr Twinfang</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Moogle [Chaos]</p>
+</div>
+</a>
+<a class="entry__ranking__face" href="/lodestone/character/15139637/">
+<img alt="" height="50" src="https://img2.finalfantasyxiv.com/f/1989a22ed779cef3e7ab5836f5a47e07_d7a9d5f85a29d6278ec1c7adc2c8d242fc0_96x96.jpg?1715773877" width="50"/>
+</a>
+</li>
+<li class="entry__ranking">
+<a class="entry__ranking__link" href="/lodestone/ranking/frontline/weekly/">
+<p class="entry__ranking__rank">
+						2
+					</p>
+<div class="entry__ranking__data">
+<p class="entry__name">Senpai Petit</p>
+<p class="entry__world"><i class="xiv-lds xiv-lds-home-world js__tooltip" data-tooltip="Home World"></i>Gilgamesh [Aether]</p>
+</div>
+</a>
+<a class="entry__ranking__face" href="/lodestone/character/36435665/">
+<img alt="" height="50" src="https://img2.finalfantasyxiv.com/f/f82b5c8ae904ff1219784bb9d60202c3_b937560c841465f7c4bc8eb47ea7948afc0_96x96.jpg?1715773459" width="50"/>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="link_sp-site" id="link_spsite"><a href="javascript:void(0)">Mobile Version</a></div><footer class="l__footer"><div class="page-top"><span class="page-top__btn"></span></div><div class="l__footer__inner"><div class="l__footer__logo"><a href="/lodestone/"><img alt="" height="32" src="https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png" width="320"/></a></div><div class="l__footer__shop"><a class="l__footer__shop__btn" href="/lodestone/playguide/#returner">Game Download</a></div><p class="l__footer__officiel">Official Information</p><ul class="l__footer__sns"><li><a class="l__footer__sns--link" href="https://www.facebook.com/finalfantasyxiv" target="_blank"><i class="xiv-lds xiv-lds-facebook xiv-lds-3x"></i><span>Facebook</span></a></li><li class="l__footer__sns--twitter"><a href="https://twitter.com/ff_xiv_en" target="_blank"><i class="xiv-lds xiv-lds-x xiv-lds-3x"></i>X</a> / <a href="https://twitter.com/FFXIV_NEWS_EN" target="_blank">News</a></li><li><a class="l__footer__sns--link" href="http://www.youtube.com/finalfantasyxiv" target="_blank"><i class="xiv-lds xiv-lds-youtube xiv-lds-3x"></i><span>YouTube</span></a></li><li><a class="l__footer__sns--link" href="https://www.instagram.com/ffxiv/" target="_blank"><i class="xiv-lds xiv-lds-instagram xiv-lds-3x"></i><span>Instagram</span></a></li><li><a class="l__footer__sns--link" href="https://www.twitch.tv/finalfantasyxiv" target="_blank"><i class="xiv-lds xiv-lds-twitch xiv-lds-3x"></i><span>Twitch</span></a></li></ul><ul class="l__footer__link-list"><li class="link_license" id="link_license"><a href="/license/" target="_blank">License</a></li><li><a href="https://support.na.square-enix.com/rule.php?id=5382&amp;la=1" target="_blank">Rules &amp; Policies</a></li><li><a href="https://square-enix-games.com/en_US/documents/privacy" target="_blank">Privacy Policy</a></li><li><a href="https://square-enix-games.com/en_US/documents/cookies" target="_blank">Cookie Policy</a></li></ul></div><div class="l__footer__legal-area"><div class="l__footer__legal-area__inner clearfix"><div class="l__footer__legal-area__box"><ul class="l__footer__legal-area__bnr-list"><li><a href="https://www.playstation.com/en-us/" target="_blank"><img alt="PlayStation PS5 PS4" height="39" src="https://lds-img.finalfantasyxiv.com/h/D/egrXwtjrQC8nFGhA1rWb0PO8R0.png" width="245"/></a></li><li><img alt="XBOX SERIES XIS" height="39" src="https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png" width="227"/></li><li><img alt="PC" height="39" src="https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png" width="42"/></li><li><img alt="Mac" height="39" src="https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png" width="30"/></li><li><img alt="STEAM" height="39" src="https://lds-img.finalfantasyxiv.com/h/U/15QxPO___EcPlhMI9ydNRRxEY8.png" width="90"/></li></ul><ul class="l__footer__legal-area__bnr-list na"><li><a href="http://www.esrb.org/" target="_blank"><img alt="ESRB Ratings" height="95" src="https://lds-img.finalfantasyxiv.com/h/E/8R4FrEQFMaGtRtuRNMU0nhfZ9c.png" width="200"/></a></li><li><a href="http://www.esrb.org/confirm/squareenix-confirmation.aspx" target="_blank"><img alt="ESRB" height="87" src="https://lds-img.finalfantasyxiv.com/h/i/OfvDbUY2NolZsL2r-nN_N8G6Sc.png" width="64"/></a><a class="l__footer__legal-area__bnr-list--text_link" href="https://square-enix-games.com/en_US/documents/privacy" target="_blank">Privacy Policy</a></li></ul><p class="l__footer__legal-area__text">©2024 Sony Interactive Entertainment LLC."PlayStation Family Mark", "PlayStation", "PS5 logo", "PS5", "PS4 logo" and "PS4" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.<br>Microsoft, the Xbox Sphere mark, the Series X|S logo and Xbox Series X|S are trademarks of the Microsoft group of companies.<br>Windows is either a registered trademark or trademark of Microsoft Corporation in the United States and/or other countries.<br>MAC is a trademark of Apple Inc., registered in the U.S. and other countries.<br/>©2024 Valve Corporation. Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.<br/>ESRB and the ESRB rating icon are registered trademarks of the Entertainment Software Association. <br/>All other trademarks are property of their respective owners.</br></br></br></p></div><div class="l__footer__legal-area__box"><p class="l__footer__legal-area__copyright">© SQUARE ENIX<br/>Square Enix, Inc.,  999 N. Pacific Coast Highway, El Segundo, California 90245  <br/>LOGO ILLUSTRATION:© YOSHITAKA AMANO</p></div></div></div></footer>
+<script src="https://lds-img.finalfantasyxiv.com/pc/en-us/js/i18n.js?1715154531"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/i/2ur_0e4qXk_NwNv0bGjrUHThCM.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/g/uQNBgvCaabd4gw5kMpaT-psp1Q.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/b/RKD_bGx738E81TyiPQN4kGf-_Y.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/Z/wqo4GxX1wALdnxx6xOv38NxFVY.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/e/TSPHxkEhdcyaPMm0rpoBtk1dZA.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/P/O9-IKBqOphhkhVvm2QPrR9x5p4.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/9/TTeYt1mN0BF3R1Av3fWlknchv4.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/8/b_tPmOnEw1tyr2dp2InkGxUlMA.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/Y/6WaukM6m3WFE2JXrCEb6tsknik.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/E/ImNUSWkI-O9dQP5ADa41RiGxGY.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/t/kQLYFR8rOESAOiyT9o2PsRnLq0.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/K/j-0ThrtbUZK4PaYO36_U1ET3ME.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/i/XmnZpu1aR3XmPVAiCoEqlYB8hU.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/A/LATlIIBarKmGFTTVid87k_GPFg.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/W/r-0ziwRwdsVj1lEyFHfmVyFgKw.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/M/piXyeCeUEtNAzCIq6jXoqNimzE.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/x/fR2bahJqt2vevMKF74cx4tRwYI.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/M/OIfkF0BnyASNQ0RswButWbIKCU.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/U/jhEwPt7MvJy47-ExjjZ3lHW3qI.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/0/f52zA7ACWvjEMB1oWe8kfyGWH0.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/l/-_ePiHXNE_1t8LnRcmRAbhRME8.js"></script>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/P/MYGDtxveSuUwuhprm8oj1Hhuq8.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/M/it7tc9wvjlJJstEQUNjiModhdM.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/n/HMQm8_JEoqrSmuv5RmmKgTldGc.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/B/ElvNJhxzt4ULBYHMPrt3JiAKGU.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/s/Nd8g9tCAy5oNnteBvnvPkUlQM0.js"></script>
+<script src="https://lds-img.finalfantasyxiv.com/h/d/UfPsCOe_Nl7ytqem4KWdsftkY0.js"></script>
+<div id="dialog_bg" style="opacity:0; visibility: hidden;"></div>
+<!-- dialog -->
+<div class="overlay__area js__overlay" name="ldstDialog" style="opacity:0; visibility: hidden; top: 0px">
+<p class="overlay__text--icon"></p>
+<div class="outbound_consent hide">
+<input class="form__checkbox" id="outbound_consent" name="outbound_consent" type="checkbox" value="1"/>
+<label class="form__checkbox__label form__outbound" for="outbound_consent">
+			Do not show this message again.
+		</label>
+</div>
+<!-- SIMPLE DIALOG -->
+<a class="js__dialog_btn btn__color--radius js__overlay_ok" href="javascript:void(0);">Confirm</a>
+<!-- //SIMPLE DIALOG -->
+<!-- CONFIRM DIALOG -->
+<ul class="js__dialog_btn overlay__btn js__overlay_btn">
+<li><a class="js__overlay_yes" href="javascript:void(0);">Yes</a></li>
+<li><a class="js__overlay_no" href="javascript:void(0);">No</a></li>
+</ul>
+<!-- //CONFIRM DIALOG -->
+</div>
+<!-- //dialog -->
+</body>
+</html>

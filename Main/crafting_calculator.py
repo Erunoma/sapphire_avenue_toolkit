@@ -82,7 +82,10 @@ def find_recipe(item_name,item_id, server):
 def pad(num, length, pad_left):
     return length * (num - len(pad_left)) + pad_left
 
+
+
 def find_picture_path(icon_id):
+    #Pathing funktionen her er blevet oversat delvist til Python via ChatGPT fra kilde: https://xivapi.com/docs/Icons
     icon_id=str(icon_id)
     print(f"Searching for path to item with Icon ID: {icon_id}")
     
@@ -109,5 +112,6 @@ def find_component_name(id):
     with open("data/item_id_names.json",'r') as file:
         item_json=json.load(file)
         print(f"Returning name of {id}: {item_json[f'{id}']['en']}")
+        
         return item_json[f"{id}"]["en"]
     pass

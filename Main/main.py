@@ -9,6 +9,7 @@ import requests
 #Own Modules
 import item_search
 import crafting_calculator
+import lodestone_scraper
 
 is_local=True
 
@@ -20,6 +21,7 @@ def start():
             app.run(host='localhost', port=43435)
         else:
             app.run(host='0.0.0.0', port=43435)
+        
     except:
         print(print_exc())
         exit()
@@ -27,6 +29,7 @@ def start():
 
 @app.route("/main")
 def main():
+    
     return render_template("front_page.html")
 
 @app.route("/item_search", methods=['GET','POST'])
@@ -34,7 +37,7 @@ def item_searching():
     item_list=item_search.get_item_names_from_id()
     try:
         if request.args.get('search'):
-
+            
             item_name=request.args.get('search')
             #TODO: Put up a request per IP per minute lock
             request_ip=request.remote_addr
@@ -70,9 +73,9 @@ def item_searching():
 @app.route("/item_craft_info", methods=['GET'])
 def craft_calculator():
     item_list=item_search.get_item_names_from_id()
-    
     try:
         if request.args.get('search'):
+     
             item_name=request.args.get('search')
             #TODO: Put up a request per IP per minute lock
             request_ip=request.remote_addr
@@ -111,6 +114,95 @@ def craft_calculator():
 
     return render_template("item_craft_info_main.html", item_list=item_list)
 
+
+
+@app.route("/profiles", methods=["GET","POST"])
+def player_collection():
+    if request.method=="POST":
+       try:
+            print(f"This is the form:")
+            server=""
+            char_name_input=""
+            for key, value in request.form.items():
+                print(key, value) 
+                if key=="server":
+                    server=value
+                if key=="char_name_input":
+                    char_name_input=value
+            if char_name_input:
+                result_dict=lodestone_scraper.search_lodestone_character_list(char_name_input,server)
+                for entry in result_dict["results"]:
+                    print(entry)
+            return render_template("character_search_results.html",result_dict=result_dict)
+       except:
+           return render_template("character_search_error.html")
+    
+    
+    if request.method=="GET":
+        try:
+            if request.args.get('id'):
+                char_id=request.args.get('id')
+                print(char_id)
+                lodestone_info=lodestone_scraper.get_lodestone_info(char_id)
+            
+                collection_minion_names=lodestone_scraper.get_minion_collection(char_id)
+                unowned_minions=lodestone_scraper.get_unowned_minions(collection_minion_names)
+                
+                owned_icons=[]
+                unowned_icons=[]
+                owned_sellable=[]
+                unowned_sellable=[]
+
+                for minion in collection_minion_names:
+                    owned_icons.append(lodestone_scraper.get_stored_minion_image_path(minion))
+                    owned_sellable.append(lodestone_scraper.get_stored_sellable(minion, "minion_information.csv"))
+                    
+                owned_info=list(zip(collection_minion_names, owned_icons,owned_sellable))
+            
+                for minion in unowned_minions:
+                    unowned_icons.append(lodestone_scraper.get_stored_minion_image_path(minion))
+                    unowned_sellable.append(lodestone_scraper.get_stored_sellable(minion, "minion_information.csv"))
+                unowned_info=list(zip(unowned_minions, unowned_icons, unowned_sellable))
+
+
+                collection_mounts_names=lodestone_scraper.get_mount_collection(char_id)
+                unowned_mounts=lodestone_scraper.get_unowned_mounts(collection_mounts_names)
+
+                owned_mount_icons=[]
+                unowned_mount_icons=[]
+
+                owned_mount_sellable=[]
+                unowned_mount_sellable=[]
+
+                for mount in collection_mounts_names:
+                    owned_mount_icons.append(lodestone_scraper.get_stored_mount_image_path(mount))
+                    owned_mount_sellable.append(lodestone_scraper.get_stored_sellable(mount, "mount_information.csv"))
+                print(owned_mount_sellable)
+                    
+
+                owned_mount_info=list(zip(collection_mounts_names, owned_mount_icons, owned_mount_sellable))
+            
+                for mount in unowned_mounts:
+                    unowned_mount_icons.append(lodestone_scraper.get_stored_mount_image_path(mount))
+                    unowned_mount_sellable.append(lodestone_scraper.get_stored_sellable(mount, "mount_information.csv"))
+                print(unowned_mount_sellable)
+                unowned_mount_info=list(zip(unowned_mounts, unowned_mount_icons, unowned_mount_sellable))
+            
+                #TODO: Find unowned minions and display them both sequensially on the site with the name, icon, status and price
+                #TODO: Add a "Total gil needed to finish collection" counter
+                #print(owned_mount_info)
+                #print(unowned_mount_info)
+                #print(owned_sellable)
+                #print(unowned_sellable)
+                
+                return render_template("character_search_profile.html", char_id=char_id, lodestone_info=lodestone_info, 
+                                   owned_minions=owned_info, unowned_minions=unowned_info, owned_icons=owned_icons,
+                                   owned_mounts=owned_mount_info, unowned_mounts=unowned_mount_info)
+        except:
+            print_exc()
+            return render_template("character_search_error.html")
+    return render_template("character_search_main.html")
+    
 
 
 @app.route("/")

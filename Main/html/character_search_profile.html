@@ -1,0 +1,149 @@
+{% extends "character_search_main.html" %}
+
+{% block content %}
+<img src={{ lodestone_info[0] }} alt="" style="height: 200px; width: 150px;">
+<div class="minion_box">
+<div class="minion_display_window_pref"  onclick="show_owned_minons()"><p class="drowndown_text" id="minion_owned_dropdown">⌄</p></div>
+    
+<h1 class="minion_header" style="font-size: 10px;">Owned minions:</h1>
+    <div id="owned_minons_div" class="minion_box_data">
+    {% for minion in owned_minions %}
+        {% if minion[2] == 'True' %}
+        <div class="minion_entry">
+            <a href="/item_search?search={{ minion[0] }}&server={{ lodestone_info[1] }}" style="display:block;height:100%;width:100%;">
+        {% else %}
+        <div class="minion_entry_unsellable">
+            <a>
+        {% endif %}
+            <div class="minion_name_box">
+                <p class="minion_name_text">{{ minion[0] }}</p>
+            </div>
+            <div class="minion_img_div">
+                <img src="{{ minion[1] }}" alt="" class="minion_img">
+            </div>
+        </a> 
+    </div>
+    {% endfor %}
+</div>
+</div>
+<div class="minion_box">
+    <div class="minion_display_window_pref"  onclick="show_unowned_minons()"><p class="drowndown_text" id="minion_unowned_dropdown">⌄</p></div>
+        
+    <h1 class="minion_header" style="font-size: 10px;">Unowned minions:</h1>
+        <div id="unowned_minons_div" class="minion_box_data">
+            {% for minion in unowned_minions %}
+            {% if minion[2] == 'True' %}
+            <div class="minion_entry">
+                <a href="/item_search?search={{ minion[0] }}&server={{ lodestone_info[1] }}" style="display:block;height:100%;width:100%;">
+            {% else %}
+            <div class="minion_entry_unsellable">
+                <a>
+            {% endif %}
+                <div class="minion_name_box">
+                    <p class="minion_name_text">{{ minion[0] }}</p>
+                </div>
+                <div class="minion_img_div">
+                    <img src="{{ minion[1] }}" alt="" class="minion_img">
+                </div>
+            </a> 
+        </div>
+        {% endfor %}
+    </div>
+    </div>
+
+    <div class="minion_box">
+        <div class="minion_display_window_pref"  onclick="show_owned_mounts()"><p class="drowndown_text" id="mount_owned_dropdown">⌄</p></div>
+            
+        <h1 class="minion_header" style="font-size: 10px;">owned mounts:</h1>
+            <div id="owned_mounts_div" class="minion_box_data">
+                {% for minion in owned_mounts %}
+                {% if minion[2] == 'True' %}
+                <div class="minion_entry">
+                    <a href="/item_search?search={{ minion[0] }}&server={{ lodestone_info[1] }}" style="display:block;height:100%;width:100%;">
+                {% else %}
+                <div class="minion_entry_unsellable">
+                    <a>
+                {% endif %}
+                    <div class="minion_name_box">
+                        <p class="minion_name_text">{{ minion[0] }}</p>
+                    </div>
+                    <div class="minion_img_div">
+                        <img src="{{ minion[1] }}" alt="" class="minion_img">
+                    </div>
+                </a> 
+            </div>
+            {% endfor %}
+        </div>
+        </div>
+
+        <div class="minion_box">
+            <div class="minion_display_window_pref"  onclick="show_unowned_mounts()"><p class="drowndown_text" id="mounts_unowned_dropdown">⌄</p></div>
+                
+            <h1 class="minion_header" style="font-size: 10px;">Unowned mounts:</h1>
+                <div id="unowned_mounts_div" class="minion_box_data">
+                    {% for minion in unowned_mounts %}
+                    {% if minion[2] == 'True' %}
+                    <div class="minion_entry">
+                        <a href="/item_search?search={{ minion[0] }}&server={{ lodestone_info[1] }}" style="display:block;height:100%;width:100%;">
+                    {% else %}
+                    <div class="minion_entry_unsellable">
+                        <a>
+                    {% endif %}
+                        <div class="minion_name_box">
+                            <p class="minion_name_text">{{ minion[0] }}</p>
+                        </div>
+                        <div class="minion_img_div">
+                            <img src="{{ minion[1] }}" alt="" class="minion_img">
+                        </div>
+                    </a> 
+                </div>
+                {% endfor %}
+            </div>
+            </div>
+
+
+
+<script>
+    function show_owned_minons(){
+        if (document.getElementById('owned_minons_div').style.display=="flex"){
+            document.getElementById('owned_minons_div').style.display="none";
+            document.getElementById('minion_owned_dropdown').innerText="⌄"
+        }
+        else{
+            document.getElementById('owned_minons_div').style.display="flex";
+            document.getElementById('minion_owned_dropdown').innerText="⌃"
+        }  
+    }
+    function show_unowned_minons(){
+        if (document.getElementById('unowned_minons_div').style.display=="flex"){
+            document.getElementById('unowned_minons_div').style.display="none";
+            document.getElementById('minion_unowned_dropdown').innerText="⌄"
+        }
+        else{
+            document.getElementById('unowned_minons_div').style.display="flex";
+            document.getElementById('minion_unowned_dropdown').innerText="⌃"
+        }  
+    }
+
+    function show_owned_mounts(){
+        if (document.getElementById('owned_mounts_div').style.display=="flex"){
+            document.getElementById('owned_mounts_div').style.display="none";
+            document.getElementById('mounts_owned_dropdown').innerText="⌄"
+        }
+        else{
+            document.getElementById('owned_mounts_div').style.display="flex";
+            document.getElementById('mounts_owned_dropdown').innerText="⌃"
+        }  
+    }
+    function show_unowned_mounts(){
+        if (document.getElementById('unowned_mounts_div').style.display=="flex"){
+            document.getElementById('unowned_mounts_div').style.display="none";
+            document.getElementById('mounts_unowned_dropdown').innerText="⌄"
+        }
+        else{
+            document.getElementById('unowned_mounts_div').style.display="flex";
+            document.getElementById('mounts_unowned_dropdown').innerText="⌃"
+        }  
+    }
+</script>
+{% endblock %}

@@ -7,8 +7,9 @@
         <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
         <link rel="icon" type="image/x-icon" href="../static/textures/sapphire_avanue_logo_scaled.png">
         <meta id=>
+        
     </head>
-<body>
+
   
 
   <div class="foreground">
@@ -16,44 +17,44 @@
   
     <div class="main_header">
       <img class="main_header_logo" src="../static/textures/sapphire_avanue_logo_scaled.png">
-          <p class="main_header_p">Sapphire Avenue-Toolkit</p>
-          
+          <p class="main_header_p">Sapphire Avenue-Toolkit</p>  
      </div>
 
-   <div class="main_toolbar">
-        <div class="main_toolbar_options">
-            <a href="/main">Home page</a>
-        </div>
-        <div class="main_toolbar_options_active">
-            <a href="/item_search">Item Search</a>
-        </div>
-        <div class="main_toolbar_options">
+    <div class="main_toolbar">
+   
+      <div class="main_toolbar_options">
+          <a href="/main">Home page</a>
+      </div>
+      <div class="main_toolbar_options_active">
+          <a href="/item_search">Item Search</a>
+      </div>
+      <div class="main_toolbar_options">
           <a href="/item_craft_info">Craft Calculator</a>
       </div>
-   </div>
+      <div class="main_toolbar_options">
+          <a href="/profiles">Character Lookup</a>
+      </div>
+
+    </div>
 
    
   </div>
 
 
     <body class="item_search_body">
-        
+      <div class="body_top">
+        <h1 class="body_top_title">Item Search</h1>
+    </div>
         <div class="search_div">
-            
-            <div class="search_bar">
-                <h1 class="body_header">Market Search</h1>
-                <input class="search_bar_class" type="text" id="searchInput" onkeyup="filterOptions()" placeholder="Search marketboard item...">
-
-                <ul id="searchResults">
-                    
-                </ul>
-                
-            </div>
-      
-          <form id="server_select_form" method="GET">
+     
           
+          <input type="text" class="search_bar" id="searchInput" onblur="remove_li()" onkeyup="filterOptions()" placeholder="Search marketboard item...">
+ 
+          <ul id="searchResults" class="search_list">    
+          </ul>
 
-         
+
+          <form id="server_select_form" method="GET">
           <select name="servers" id="server_select" class="server_selection">
             <optgroup label="North America">
               <optgroup label="Aether">
@@ -165,38 +166,37 @@
                 <option value="yojimbo">Yojimbo</option>
                 <option value="zeromus">Zeromus</option>
               </optgroup>
-
-
             </optgroup>
           </select>
-        
         </form>
+
         </div>
+      </div>
         
         {% block content %}
 
       {% endblock %}
       
-        </body>
-          
-        </div>
-      
     </body>
 
 
- 
-<style>
+<script>
 
-</style>
+//https://stackoverflow.com/questions/41041263/how-to-hide-a-dropdown-when-the-user-clicks-outside-of-it
 
-      
-      <script>
-        // Define the options
-        const options = JSON.parse('{{item_list|tojson|safe}}')
-        const max_filtered = 100;
+function remove_li() {
+  document.getElementsByClassName("filter_li").style.display="none"
+}
+        
+
+    //Koden herunder er lavet hovedsageligt af ChatGPT
+
+    // Define the options
+    const options = JSON.parse('{{item_list|tojson|safe}}')
+    const max_filtered = 100;
        
       
-        function filterOptions() {
+    function filterOptions() {
     // Get input value and split into separate words
     const input = document.getElementById('searchInput').value.toLowerCase().trim();
     const searchResults = document.getElementById('searchResults');
@@ -217,6 +217,8 @@
     for (let i = 0; i < filteredOptions.length; i++) {
         const option = filteredOptions[i];
         const li = document.createElement('li');
+        li.setAttribute('id','filter_li');
+        li.className='filter_li';
         li.textContent = option;
         li.addEventListener('click', function() {
             // Redirect to another page when clicked

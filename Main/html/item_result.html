@@ -3,9 +3,9 @@
 {% block content %}
 <div class="item_information_base">
 
-
+<img style="border: 1px solid black; border-image: url(../static/textures/border_1_scaled.png);" width="40px" height="40px" src="../{{ item_icon_path }}">
 <a href="/item_craft_info?search={{ item_name }}&server={{ request.args.get('server') }}" class="item_name_h1">{{ item_name }}</a>
-<img style="border: 1px solid black; border-image: url(../static/textures/border_1_scaled.png);" width="20px" height="20px" src="../{{ item_icon_path }}">
+
 <h2 class="server_name_h2">Server: {{ server|capitalize }} </h2>
 <h3 class="last_updated_h3">Last Update: {{ listing_timestamp }}</h3>
 <div class="listings_display">

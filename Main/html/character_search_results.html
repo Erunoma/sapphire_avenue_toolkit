@@ -1,0 +1,15 @@
+{% extends "character_search_main.html" %}
+
+{% block content %}
+
+{% for char in result_dict["results"] %}
+
+<div class="entry_div">
+    <a class="entry_a" href={{ char[1] }}>
+        <img class="search_char_icon" src={{ char[2] }} alt={{ char[0] }}>
+        <p class="entry_name">{{ char[0] }}</p>
+    </a>
+</div>
+{% endfor %}
+
+{% endblock %}

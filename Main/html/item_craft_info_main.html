@@ -20,7 +20,8 @@
             
        </div>
 
-   <div class="main_toolbar">
+       <div class="main_toolbar">
+   
         <div class="main_toolbar_options">
             <a href="/main">Home page</a>
         </div>
@@ -30,147 +31,144 @@
         <div class="main_toolbar_options_active">
             <a href="/item_craft_info">Craft Calculator</a>
         </div>
-   </div>
+        <div class="main_toolbar_options">
+            <a href="/profiles">Character Lookup</a>
+        </div>
 
 
   </div>
 
     <body class="item_search_body">
-        
-        <div class="search_div">
-            
-            <div class="search_bar">
-                <h1 class="body_header">Craft Calculator</h1>
-                <input type="text" id="searchInput" onkeyup="filterOptions()" placeholder="Search marketboard item...">
-
-                <ul id="searchResults">
-                    
-                </ul>
-                
-            </div>
-      
-          <form id="server_select_form" method="GET">
+      <div class="body_top">
+        <h1 class="body_top_title">Crafting Calculator</h1>
+    </div>
+    <div class="search_div">
+     
           
+      <input type="text" class="search_bar" id="searchInput" onblur="remove_li()" onkeyup="filterOptions()" placeholder="Search marketboard item...">
 
-         
-          <select name="servers" id="server_select" class="server_selection">
-            <optgroup label="North America">
-              <optgroup label="Aether">
-                <option value="adamantoise">Adamantoise</option>
-                <option value="cactuar">Cactuar</option>
-                <option value="faerie">Faerie</option>
-                <option value="gilgamesh">Gilgamesh</option>
-                <option value="jenova">Jenova</option>
-                <option value="midgardsormr">Midgardsormr</option>
-                <option value="sargatanas">Sargartanas</option>
-                <option value="siren">Siren</option>
-              </optgroup>
-              <optgroup label="Crystal">
-                <option value="balmung">Balmung</option>
-                <option value="crynhildr">Brynhildr</option>
-                <option value="coeurl">Coeurl</option>
-                <option value="diabolos">Diabolos</option>
-                <option value="goblin">Goblin</option>
-                <option value="malboro">Malboro</option>
-                <option value="mateus">Mateus</option>
-                <option value="zalera">Zalera</option>
-              </optgroup>
-              <optgroup label="Primal">
-                <option value="behemoth">Behemoth</option>
-                <option value="excalibur">Excalibur</option>
-                <option value="exodus">Exodus</option>
-                <option value="famfrit">Famfrit</option>
-                <option value="hyperion">Hyperion</option>
-                <option value="lamia">Lamia</option>
-                <option value="leviathan">Leviathan</option>
-                <option value="ultros">Ultros</option>
-              </optgroup>
-              <optgroup label="Dynamis">
-                <option value="halicarnassus">Halicarnassus</option>
-                <option value="maduin">Maduin</option>
-                <option value="marilith">Marilith</option>
-                <option value="seraph">Seraph</option>
-              </optgroup>
-            </optgroup>
-            <optgroup label="Europa">
-              <optgroup label="Chaos">
-                <option value="cerberus">Cerberus</option>
-                <option value="louisoix">Louisoix</option>
-                <option value="moogle">Moogle</option>
-                <option value="omega">Omega</option>
-                <option value="phantom">Phantom</option>
-                <option value="ragnarok">Ragnarok</option>
-                <option value="sagittarius">Sagittarius</option>
-                <option value="spriggan">Spriggan</option>
-              </optgroup>
-              <optgroup label="Light">
-                <option value="alpha">Alpha</option>
-                <option value="lich">Lich</option>
-                <option value="odin">Odin</option>
-                <option value="phoenix">Phoenix</option>
-                <option value="raiden">Raiden</option>
-                <option value="shiva">Shiva</option>
-                <option value="wwintania">Twintania</option>
-                <option value="zodiark">Zodiark</option>
-              </optgroup>
-            </optgroup>
-            <optgroup label="Oceania">
-              <optgroup label="Materia">
-                <option value="bismarck">Bismarck</option>
-                <option value="ravana">Ravana</option>
-                <option value="sephirot">Sephirot</option>
-                <option value="sophia">Sophia</option>
-                <option value="zurvan">Zurvan</option>
-              </optgroup>
-            </optgroup>
-            <optgroup label="Japan">
-              <optgroup label="Elemental">
-                <option value="aegis">Aegis</option>
-                <option value="atomos">Atomos</option>
-                <option value="carbuncle">Carbuncle</option>
-                <option value="garuda">Garuda</option>
-                <option value="gungnir">Gungnir</option>
-                <option value="kujata">Kujata</option>
-                <option value="tonberry">Tonberry</option>
-                <option value="typhon">Typhon</option>
-              </optgroup>
-              <optgroup label="Gaia">
-                <option value="alexander">Alexander</option>
-                <option value="bahamut">Bahamut</option>
-                <option value="durandal">Durandal</option>
-                <option value="fenrir">Fenrir</option>
-                <option value="ifrit">Ifrit</option>
-                <option value="ridill">Ridill</option>
-                <option value="tiamat">Tiamat</option>
-                <option value="ultima">Ultima</option>
-              </optgroup>
-              <optgroup label="Mana">
-                <option value="anima">Anima</option>
-                <option value="asura">Asura</option>
-                <option value="chocobo">Chocobo</option>
-                <option value="hades">Hades</option>
-                <option value="ixion">Ixion</option>
-                <option value="masamune">Masamune</option>
-                <option value="pandaemonium">Pandaemonium</option>
-                <option value="titan">Titan</option>
-              </optgroup>
-              <optgroup label="Meteor">
-                <option value="belias">Belias</option>
-                <option value="mandragora">Mandragora</option>
-                <option value="ramuh">Ramuh</option>
-                <option value="shinryu">Shinryu</option>
-                <option value="unicorn">Unicorn</option>
-                <option value="valefor">Valefor</option>
-                <option value="yojimbo">Yojimbo</option>
-                <option value="zeromus">Zeromus</option>
-              </optgroup>
+      <ul id="searchResults" class="search_list">    
+      </ul>
 
 
-            </optgroup>
-          </select>
-        
-        </form>
-        </div>
+      <form id="server_select_form" method="GET">
+      <select name="servers" id="server_select" class="server_selection">
+        <optgroup label="North America">
+          <optgroup label="Aether">
+            <option value="adamantoise">Adamantoise</option>
+            <option value="cactuar">Cactuar</option>
+            <option value="faerie">Faerie</option>
+            <option value="gilgamesh">Gilgamesh</option>
+            <option value="jenova">Jenova</option>
+            <option value="midgardsormr">Midgardsormr</option>
+            <option value="sargatanas">Sargartanas</option>
+            <option value="siren">Siren</option>
+          </optgroup>
+          <optgroup label="Crystal">
+            <option value="balmung">Balmung</option>
+            <option value="crynhildr">Brynhildr</option>
+            <option value="coeurl">Coeurl</option>
+            <option value="diabolos">Diabolos</option>
+            <option value="goblin">Goblin</option>
+            <option value="malboro">Malboro</option>
+            <option value="mateus">Mateus</option>
+            <option value="zalera">Zalera</option>
+          </optgroup>
+          <optgroup label="Primal">
+            <option value="behemoth">Behemoth</option>
+            <option value="excalibur">Excalibur</option>
+            <option value="exodus">Exodus</option>
+            <option value="famfrit">Famfrit</option>
+            <option value="hyperion">Hyperion</option>
+            <option value="lamia">Lamia</option>
+            <option value="leviathan">Leviathan</option>
+            <option value="ultros">Ultros</option>
+          </optgroup>
+          <optgroup label="Dynamis">
+            <option value="halicarnassus">Halicarnassus</option>
+            <option value="maduin">Maduin</option>
+            <option value="marilith">Marilith</option>
+            <option value="seraph">Seraph</option>
+          </optgroup>
+        </optgroup>
+        <optgroup label="Europa">
+          <optgroup label="Chaos">
+            <option value="cerberus">Cerberus</option>
+            <option value="louisoix">Louisoix</option>
+            <option value="moogle">Moogle</option>
+            <option value="omega">Omega</option>
+            <option value="phantom">Phantom</option>
+            <option value="ragnarok">Ragnarok</option>
+            <option value="sagittarius">Sagittarius</option>
+            <option value="spriggan">Spriggan</option>
+          </optgroup>
+          <optgroup label="Light">
+            <option value="alpha">Alpha</option>
+            <option value="lich">Lich</option>
+            <option value="odin">Odin</option>
+            <option value="phoenix">Phoenix</option>
+            <option value="raiden">Raiden</option>
+            <option value="shiva">Shiva</option>
+            <option value="wwintania">Twintania</option>
+            <option value="zodiark">Zodiark</option>
+          </optgroup>
+        </optgroup>
+        <optgroup label="Oceania">
+          <optgroup label="Materia">
+            <option value="bismarck">Bismarck</option>
+            <option value="ravana">Ravana</option>
+            <option value="sephirot">Sephirot</option>
+            <option value="sophia">Sophia</option>
+            <option value="zurvan">Zurvan</option>
+          </optgroup>
+        </optgroup>
+        <optgroup label="Japan">
+          <optgroup label="Elemental">
+            <option value="aegis">Aegis</option>
+            <option value="atomos">Atomos</option>
+            <option value="carbuncle">Carbuncle</option>
+            <option value="garuda">Garuda</option>
+            <option value="gungnir">Gungnir</option>
+            <option value="kujata">Kujata</option>
+            <option value="tonberry">Tonberry</option>
+            <option value="typhon">Typhon</option>
+          </optgroup>
+          <optgroup label="Gaia">
+            <option value="alexander">Alexander</option>
+            <option value="bahamut">Bahamut</option>
+            <option value="durandal">Durandal</option>
+            <option value="fenrir">Fenrir</option>
+            <option value="ifrit">Ifrit</option>
+            <option value="ridill">Ridill</option>
+            <option value="tiamat">Tiamat</option>
+            <option value="ultima">Ultima</option>
+          </optgroup>
+          <optgroup label="Mana">
+            <option value="anima">Anima</option>
+            <option value="asura">Asura</option>
+            <option value="chocobo">Chocobo</option>
+            <option value="hades">Hades</option>
+            <option value="ixion">Ixion</option>
+            <option value="masamune">Masamune</option>
+            <option value="pandaemonium">Pandaemonium</option>
+            <option value="titan">Titan</option>
+          </optgroup>
+          <optgroup label="Meteor">
+            <option value="belias">Belias</option>
+            <option value="mandragora">Mandragora</option>
+            <option value="ramuh">Ramuh</option>
+            <option value="shinryu">Shinryu</option>
+            <option value="unicorn">Unicorn</option>
+            <option value="valefor">Valefor</option>
+            <option value="yojimbo">Yojimbo</option>
+            <option value="zeromus">Zeromus</option>
+          </optgroup>
+        </optgroup>
+      </select>
+    </form>
+
+    </div>
+  </div>
         
         {% block content %}
 
