@@ -1,3 +1,4 @@
+#Imported modules
 import json
 from bs4 import BeautifulSoup
 import requests
@@ -6,8 +7,11 @@ from pprint import pprint
 from traceback import print_exc
 import csv
 
+#Own modules
 import item_search
 import crafting_calculator
+
+#Searches the lodestone for characters that have a similar name to the POSTed information
 def search_lodestone_character_list(name, server):
     char_info=[]
     #Linje 14 er skrevet delvis af ChatGPT
@@ -16,7 +20,7 @@ def search_lodestone_character_list(name, server):
         name=name.replace(" ","+")
     cleaner=re.compile('<.*?>')
     print(f"url: https://na.finalfantasyxiv.com/lodestone/character/?q={name}&worldname={server}")
-   
+    #Checks if a proper connection was formed
     if server:
         page=requests.get(f"https://na.finalfantasyxiv.com/lodestone/character/?q={name}&worldname={server}")
         if page.status_code!=200:
@@ -28,14 +32,15 @@ def search_lodestone_character_list(name, server):
    
         
     #Linje 31-32 er taget fra mit tidligere-lavet Scraping program fra praktikken
+    #Initilizes the scraper
     soup = BeautifulSoup(page.content, "html.parser")
     clean_text=re.sub(cleaner, '', str(soup))
-    
-    #print(clean_text)
-    #print(soup)
+
+    #Finds all the html objects that we define below
     html_listings=soup.find_all("div",{"class":"entry"})
     
     results=[]
+    #For each character found, finds the name, profile ID and the portrait icon
     for entry in html_listings:
         try:
             char_name_all=str(entry.find("p",{"class":"entry__name"}))
@@ -67,13 +72,15 @@ def search_lodestone_character_list(name, server):
     #pprint(char_info_dict)
     return char_info_dict
 
-
+#Gets 
 def get_lodestone_info(id):
+    #Gets the HTML page of the lodestone profile of character
     cleaner=re.compile('<.*?>')
     page=requests.get(f"https://na.finalfantasyxiv.com/lodestone/character/{id}/")
     soup = BeautifulSoup(page.content, "html.parser")
     clean_text=re.sub(cleaner, '', str(soup))
-    #print(soup)
+
+    #Gets the full image of the character
     div_class=soup.find("div",{"class":"character__detail__image"})
     a_class=div_class.find("a")
     profile_picture_href=a_class.get("href")
@@ -85,22 +92,22 @@ def get_lodestone_info(id):
     return profile_info
 
       #Reflection: Hidden elements in HTML  
-def get_minion_collection(id):
 
+#Opens the minion page of the character and scrapes the minion information
+def get_minion_collection(id):
+    #Stores information on new minions and mounts that previously was missing from the csv files
     is_collecting=True
     cleaner=re.compile('<.*?>')
     page=requests.get(f"https://na.finalfantasyxiv.com/lodestone/character/{id}/minion/")
     soup = BeautifulSoup(page.content, "html.parser")
 
-   
     all_minions=soup.find_all("li", {"class":"minion__list_icon"})
 
     minion_names=[]
     minion_collecting=[]
-
-
     
     #print(len(all_minions))
+
     for minion in all_minions:
         try:
             if is_collecting==True:
@@ -131,6 +138,7 @@ def get_minion_collection(id):
 
     return minion_names
 
+#Same function as above, but with mounts
 def get_mount_collection(id):
     is_collecting=True
     cleaner=re.compile('<.*?>')
@@ -178,7 +186,7 @@ def get_mount_collection(id):
     return mount_names
     
     
-
+#Checks if minion/mount already exists in the csv files
 def check_href(href):
     is_true=False
     with open ("data/minion_information.csv", 'r') as read_file:
@@ -195,7 +203,8 @@ def check_href(href):
     else:
         #print("New minion found")
         return False
-        
+    
+#Same as above, but with mounts
 def check_href_mounts(href):
     is_true=False
     with open ("data/mount_information.csv", 'r') as read_file:
@@ -212,8 +221,8 @@ def check_href_mounts(href):
     else:
         #print("New Mount found")
         return False
-            
-       
+
+#Get the minion name from the csv file, based on the href  
 def get_minion_name(href):
     csv_list=[]
     with open ("data/minion_information.csv", 'r') as read_file:
@@ -223,6 +232,7 @@ def get_minion_name(href):
                 return line[0]
             else:
                 pass
+#Same as above, but with mounts
 def get_mount_name(href):
     csv_list=[]
     with open ("data/mount_information.csv", 'r') as read_file:
@@ -235,7 +245,7 @@ def get_mount_name(href):
   
 
     
-
+#If the minion doesn't exist, add the name. href, icon pathing and sellable status to the csv
 def update_minion_file(minions):
    
     csv_list=[]
@@ -249,6 +259,7 @@ def update_minion_file(minions):
         minions_in_csv["minions"]=csv_list
         #pprint(minions_in_csv)
         for minion in minions:
+            #Denne linje nedenunder, er delvist lavet af ChatGPT
             result=any(minion[1] in sublist for sublist in minions_in_csv["minions"])
             if result:
                 pass
@@ -261,6 +272,7 @@ def update_minion_file(minions):
             writer.writerow(line)
 
     pass
+#Same as above, but with mounts
 def update_mount_file(mounts):
     try:
         csv_list=[]
@@ -288,6 +300,7 @@ def update_mount_file(mounts):
         print_exc()
     pass
 
+#Opens the csv file and compares which minions are missing
 def get_unowned_minions(owned_minions):
     unowned_minions_names=[]
 
@@ -311,7 +324,7 @@ def get_unowned_minions(owned_minions):
     
     #print(f"Full list of unowned minions: {unowned_minions_names}")
     return unowned_minions_names
-
+#Same as above, but with mounts
 def get_unowned_mounts(owned_mounts):
     unowned_mounts_names=[]
 
@@ -335,7 +348,7 @@ def get_unowned_mounts(owned_mounts):
     
     #print(f"Full list of unowned mounts: {unowned_mounts_names}")
     return unowned_mounts_names                
-
+#Gets the image path for the minion
 def get_stored_minion_image_path(item_name):
     with open("data/minion_information.csv", 'r') as file:
         reader=csv.reader(file)
@@ -347,7 +360,7 @@ def get_stored_minion_image_path(item_name):
             pass
         else:
             return None
-           
+#Gets the image path for the mount        
 def get_stored_mount_image_path(item_name):
     with open("data/mount_information.csv", 'r') as file:
         reader=csv.reader(file)
@@ -361,7 +374,7 @@ def get_stored_mount_image_path(item_name):
             return None
 
 
-
+#Adds the sellable status to the csv
 def csv_sell_status_overwriter():
     try:
     
@@ -413,6 +426,7 @@ def csv_sell_status_overwriter():
     except:
         print_exc()
 
+#Opens the csv and gets the sellable status
 def get_stored_sellable(minion,csv_file):
     try:
         with open(f"data/{csv_file}", 'r') as file: 

@@ -32,7 +32,7 @@
             <a href="/item_craft_info">Craft Calculator</a>
         </div>
         <div class="main_toolbar_options">
-            <a href="/profiles">Character Lookup</a>
+            <a href="/profiles">Character Search</a>
         </div>
 
 
@@ -166,7 +166,10 @@
         </optgroup>
       </select>
     </form>
-
+    <div class="loading_div" id="loading_object" style="display: none;">
+      <p>Loading information, please wait...</p>
+      <img src="../static/textures/loading_icon.gif" alt="">
+      </div>
     </div>
   </div>
         
@@ -214,12 +217,18 @@
     for (let i = 0; i < filteredOptions.length; i++) {
         const option = filteredOptions[i];
         const li = document.createElement('li');
+        li.className='filter_li_id';
         li.textContent = option;
         li.addEventListener('click', function() {
+            document.getElementById('loading_object').style.display="block";
             // Redirect to another page when clicked
             var server_value=document.getElementById("server_select").value;
             
             window.location.href = '/item_craft_info?search=' +encodeURIComponent(option)+"&server="+encodeURIComponent(server_value);
+            const filter_lis = document.getElementsByClassName('filter_li_id')
+            for (let i =0; i<filter_lis.length; i++){
+              filter_lis[i].style.display="none";
+            }
         });
         searchResults.appendChild(li);
         count++;
